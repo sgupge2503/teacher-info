@@ -1,0 +1,28 @@
+URLS = [
+    "https://researchmap.jp/y.ishimoto",
+    "https://researchmap.jp/a-iwasaki",
+    "https://researchmap.jp/sgrueda",
+    "https://researchmap.jp/read0092784",
+    "https://researchmap.jp/read0043384",
+    "https://researchmap.jp/read0068302",
+    "https://researchmap.jp/kakeshita-tetsuro",
+    "https://researchmap.jp/7000009333",
+    "https://researchmap.jp/read0150456",
+    "https://researchmap.jp/read20180918",
+    "https://researchmap.jp/koichi_nakayama",
+    "https://researchmap.jp/read0092611",
+    "https://researchmap.jp/handak",
+    "https://researchmap.jp/read0043377",
+    "https://researchmap.jp/read0143510",
+    "https://researchmap.jp/fukudao",
+    "https://researchmap.jp/hohto-bekki",
+    "https://researchmap.jp/YoshiakiHori",
+    "https://researchmap.jp/read0092768",
+    "https://researchmap.jp/read0092220",
+    "https://researchmap.jp/matsumae",
+    "https://researchmap.jp/read0068308",
+    "https://researchmap.jp/read0109230",
+    "https://researchmap.jp/wenliangyeoh",
+]
+
+DB_PATH = "../teacher.db"

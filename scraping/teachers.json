@@ -1,0 +1,2104 @@
+[
+  {
+    "url": "https://researchmap.jp/y.ishimoto",
+    "name": "石本 志高",
+    "ruby": "Yukitaka Ishimoto",
+    "basic_info": {
+      "所属": "佐賀大学 理工学部 教授",
+      "学位": "D.Phil(2004年3月 The University of Oxford) 修士(京都大学) 学士(京都大学)",
+      "researchmap会員ID": "B000341233"
+    },
+    "research_keywords": [
+      "数理生物学",
+      "数理物理学",
+      "理論生物物理学",
+      "流体科学",
+      "バイオマテリアル",
+      "バイオメカニクス",
+      "形態形成",
+      "生命情報数理",
+      "ソフトマター"
+    ],
+    "research_areas": [
+      "ライフサイエンス / 生物物理学 / 数理モデル，発生生物学，生体器官・組織力学，ゲノム・染色体，イメージングデータ解析，コンピュータシミュレーション",
+      "情報通信 / 生命、健康、医療情報学 / 数理モデル，生体器官・組織力学，イメージングデータ解析，コンピュータシミュレーション，粘弾性体",
+      "ものづくり技術（機械・電気電子・化学工学） / 流体工学 / 生物流体，コンピュータシミュレーション，粘弾性体",
+      "自然科学一般 / 生物物理、化学物理、ソフトマターの物理 / 生体器官・組織力学，粘弾性体，生物流体，コンピュータシミュレーション，数理モデル"
+    ],
+    "major_papers": [
+      {
+        "title": "Programmed disassembly of a microtubule-based membrane protrusion network coordinates 3D epithelial morphogenesis in Drosophila",
+        "link": "https://researchmap.jp/y.ishimoto/published_papers/46211995"
+      },
+      {
+        "title": "Coordinate Normalization of Live-Cell Imaging Data Reveals Growth Dynamics of the Arabidopsis Zygote.",
+        "link": "https://researchmap.jp/y.ishimoto/published_papers/41973572"
+      },
+      {
+        "title": "Dynamical Rheological Properties of In-Silico Epithelial Tissue by Vertex Models",
+        "link": "https://researchmap.jp/y.ishimoto/published_papers/27453774"
+      },
+      {
+        "title": "Towards Particle Tracking Velocimetry of Cell Flow in Developing Tissue Using Deep Neural Network",
+        "link": "https://researchmap.jp/y.ishimoto/published_papers/27453773"
+      },
+      {
+        "title": "Coupling between dynamic 3D tissue architecture and BMP morphogen signaling during Drosophila wing morphogenesis",
+        "link": "https://researchmap.jp/y.ishimoto/published_papers/27422152"
+      },
+      {
+        "title": "Spontaneous Spatial Correlation of Elastic Modulus in Jammed Epithelial Monolayers Observed by AFM",
+        "link": "https://researchmap.jp/y.ishimoto/published_papers/27422151"
+      },
+      {
+        "title": "A mechanical model for diversified insect wing margin shapes.",
+        "link": "https://researchmap.jp/y.ishimoto/published_papers/27422294"
+      },
+      {
+        "title": "Coordination of Cellular Dynamics Contributes to Tooth Epithelium Deformations",
+        "link": "https://researchmap.jp/y.ishimoto/published_papers/27422153"
+      },
+      {
+        "title": "Synergistic action of nectins and cadherins generates the mosaic cellular pattern of the olfactory epithelium",
+        "link": "https://researchmap.jp/y.ishimoto/published_papers/27422154"
+      },
+      {
+        "title": "Bubbly vertex dynamics: A dynamical and geometrical model for epithelial tissues with curved cell shapes.",
+        "link": "https://researchmap.jp/y.ishimoto/published_papers/27422292"
+      },
+      {
+        "title": "Two-dimensional lattice liquid models.",
+        "link": "https://researchmap.jp/y.ishimoto/published_papers/27422293"
+      },
+      {
+        "title": "Effect of interaction shape on the condensed toroid of the semiflexible chain",
+        "link": "https://researchmap.jp/y.ishimoto/published_papers/27422286"
+      },
+      {
+        "title": "Solving Infinite Kolam in Knot Theory",
+        "link": "https://researchmap.jp/y.ishimoto/published_papers/27422291"
+      },
+      {
+        "title": "Massive Majorana fermion coupled to two-dimensional gravity and the random-lattice Ising model",
+        "link": "https://researchmap.jp/y.ishimoto/published_papers/29756902"
+      },
+      {
+        "title": "Low-energy states of a semiflexible polymer chain with attraction and the whip-toroid transitions",
+        "link": "https://researchmap.jp/y.ishimoto/published_papers/27422284"
+      },
+      {
+        "title": "Two-Point Functions and Logarithmic Boundary Operators in Boundary Logarithmic Conformal Field Theories",
+        "link": "https://researchmap.jp/y.ishimoto/published_papers/27422289"
+      },
+      {
+        "title": "Two-Point Functions and Boundary States in Boundary Logarithmic Conformal Field Theories",
+        "link": "https://researchmap.jp/y.ishimoto/published_papers/27422288"
+      },
+      {
+        "title": "Boundary states in boundary logarithmic CFT",
+        "link": "https://researchmap.jp/y.ishimoto/published_papers/27422282"
+      }
+    ]
+  },
+  {
+    "url": "https://researchmap.jp/a-iwasaki",
+    "name": "岩﨑 淳",
+    "ruby": "Atsushi Iwasaki",
+    "basic_info": {
+      "所属": "佐賀大学 理工学系 理工学部数理・情報部門",
+      "J-GLOBAL ID": "201901010065766800"
+    },
+    "research_keywords": [],
+    "research_areas": [
+      "情報通信 / 情報学基礎論 /"
+    ],
+    "major_papers": [
+      {
+        "title": "The reference distributions of Maurer’s universal statistical test and its improved tests",
+        "link": "https://researchmap.jp/a-iwasaki/published_papers/37630593"
+      },
+      {
+        "title": "The relation between Proportion test and Uniformity test in NIST SP800-22",
+        "link": "https://researchmap.jp/a-iwasaki/published_papers/32651282"
+      },
+      {
+        "title": "Deriving the Variance of the Discrete Fourier Transform Test Using Parseval’s Theorem",
+        "link": "https://researchmap.jp/a-iwasaki/published_papers/29310599"
+      },
+      {
+        "title": "Randomness Test to Solve Discrete Fourier Transform Test Problems",
+        "link": "https://researchmap.jp/a-iwasaki/published_papers/29310594"
+      },
+      {
+        "title": "Three theorems on odd degree Chebyshev polynomials and more generalized permutation polynomials over a ring of module $$2^w$$ 2 w",
+        "link": "https://researchmap.jp/a-iwasaki/published_papers/29311038"
+      },
+      {
+        "title": "Analysis of NIST SP800-22 focusing on randomness of each sequence",
+        "link": "https://researchmap.jp/a-iwasaki/published_papers/29310595"
+      },
+      {
+        "title": "Further improving security of Vector Stream Cipher",
+        "link": "https://researchmap.jp/a-iwasaki/published_papers/29310711"
+      },
+      {
+        "title": "One-stroke polynomials over a ring of modulo $2^w$",
+        "link": "https://researchmap.jp/a-iwasaki/published_papers/29310597"
+      },
+      {
+        "title": "Improving security of Vector Stream Cipher",
+        "link": "https://researchmap.jp/a-iwasaki/published_papers/29310596"
+      }
+    ]
+  },
+  {
+    "url": "https://researchmap.jp/sgrueda",
+    "name": "上田 俊",
+    "ruby": "ウエダ スグル  (Suguru Ueda)",
+    "basic_info": {
+      "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 助教",
+      "学位": "情報科学(九州大学)",
+      "研究者番号": "40733762"
+    },
+    "research_keywords": [
+      "ゲーム理論",
+      "マルチエージェントシステム"
+    ],
+    "research_areas": [
+      "情報通信 / 知能情報学 /"
+    ],
+    "major_papers": [
+      {
+        "title": "Electrochemical fingerprinting of complex solutions using boron-doped diamond electrodes: Advanced classifications by machine learning",
+        "link": "https://researchmap.jp/sgrueda/published_papers/49999802"
+      },
+      {
+        "title": "Quantification of caffeine in coffee cans using electrochemical measurements, machine learning, and boron-doped diamond electrodes",
+        "link": "https://researchmap.jp/sgrueda/published_papers/49999808"
+      },
+      {
+        "title": "ミニ四駆シミュレーターを用いたミニ四駆 AI の学習",
+        "link": "https://researchmap.jp/sgrueda/published_papers/28378571"
+      },
+      {
+        "title": "デジタルカメラ画像を用いたミニ四駆 AI の自己位置推定",
+        "link": "https://researchmap.jp/sgrueda/published_papers/28378569"
+      },
+      {
+        "title": "エージェントのタイプを用いた特性関数の簡略表記法に基づく確率的提携構造形成問題",
+        "link": "https://researchmap.jp/sgrueda/published_papers/27699928"
+      },
+      {
+        "title": "Distributed Constraint Satisfaction Among Android Devices.",
+        "link": "https://researchmap.jp/sgrueda/published_papers/25861184"
+      },
+      {
+        "title": "Improved WPM encoding for coalition structure generation under MC-nets.",
+        "link": "https://researchmap.jp/sgrueda/published_papers/18951917"
+      },
+      {
+        "title": "エージェントのタイプに基づく確率的提携構造形成問題",
+        "link": "https://researchmap.jp/sgrueda/published_papers/27699899"
+      },
+      {
+        "title": "Envy based fairness in hedonic games.",
+        "link": "https://researchmap.jp/sgrueda/published_papers/18951919"
+      },
+      {
+        "title": "Coalition structure generation in cooperative games with compact representations.",
+        "link": "https://researchmap.jp/sgrueda/published_papers/18951918"
+      },
+      {
+        "title": "Strategy-proof school choice mechanisms with minimum quotas and initial endowments",
+        "link": "https://researchmap.jp/sgrueda/published_papers/18951920"
+      },
+      {
+        "title": "Coalition Structure Generation for Partition Function Games Utilizing a Concise Graphical Representation.",
+        "link": "https://researchmap.jp/sgrueda/published_papers/18951921"
+      },
+      {
+        "title": "Strategyproof Matching with Minimum Quotas and Initial Endowments: (Extended Abstract).",
+        "link": "https://researchmap.jp/sgrueda/published_papers/18951923"
+      },
+      {
+        "title": "Pareto Efficient Strategy-proof School Choice Mechanism with Minimum Quotas and Initial Endowments.",
+        "link": "https://researchmap.jp/sgrueda/published_papers/18951922"
+      },
+      {
+        "title": "Strategyproof matching with minimum quotas",
+        "link": "https://researchmap.jp/sgrueda/published_papers/18951925"
+      },
+      {
+        "title": "Finding core for coalition structure utilizing dual solution",
+        "link": "https://researchmap.jp/sgrueda/published_papers/18951924"
+      },
+      {
+        "title": "地域制約の下での戦略的操作不可能なマッチングメカ ニズム",
+        "link": "https://researchmap.jp/sgrueda/published_papers/27735760"
+      },
+      {
+        "title": "Computing a Payoff Division in the Least Core for MC-nets Coalitional Games",
+        "link": "https://researchmap.jp/sgrueda/published_papers/18951927"
+      },
+      {
+        "title": "Strategy-proof matching with regional minimum quotas.",
+        "link": "https://researchmap.jp/sgrueda/published_papers/18951926"
+      },
+      {
+        "title": "Finding the core for coalition structure utilizing dual solution",
+        "link": "https://researchmap.jp/sgrueda/published_papers/18951928"
+      }
+    ]
+  },
+  {
+    "url": "https://researchmap.jp/read0092784",
+    "name": "大月 美佳",
+    "ruby": "オオツキ ミカ  (Mika Ohtsuki)",
+    "basic_info": {
+      "所属": "佐賀大学 理工学部 知能情報システム学科 講師",
+      "学位": "博士(工学)(九州大学)",
+      "J-GLOBAL ID": "200901059172592310",
+      "外部リンク": "http://www.cs.is.saga-u.ac.jp/~mika/"
+    },
+    "research_keywords": [
+      "仮想三次元空間",
+      "遠隔教育支援",
+      "オブジェクト指向",
+      "ソフトウェア開発技術"
+    ],
+    "research_areas": [
+      "人文・社会 / 図書館情報学、人文社会情報学 /",
+      "情報通信 / 情報学基礎論 /"
+    ],
+    "major_papers": []
+  },
+  {
+    "url": "https://researchmap.jp/read0043384",
+    "name": "岡﨑 泰久",
+    "ruby": "オカザキ ヤスヒサ  (Yasuhisa OKAZAKI)",
+    "basic_info": {
+      "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 教授",
+      "学位": "博士（工学）",
+      "研究者番号": "90253583"
+    },
+    "research_keywords": [
+      "教育工学",
+      "Educational Engineering"
+    ],
+    "research_areas": [
+      "人文・社会 / 教育工学 /",
+      "情報通信 / 知能情報学 /"
+    ],
+    "major_papers": [
+      {
+        "title": "An interactive self-learning system using smartphone app and cards enabling braille touch experience for blindness",
+        "link": "https://researchmap.jp/read0043384/published_papers/49865691"
+      },
+      {
+        "title": "Local Safety Map for a Cornerstone of Local Disaster Prevention: A Case Study of a Historical Local Town in Japan",
+        "link": "https://researchmap.jp/read0043384/published_papers/47434282"
+      },
+      {
+        "title": "Prototyping and Evaluation of a Web Application Supporting Tourists in Trouble and Emergency",
+        "link": "https://researchmap.jp/read0043384/published_papers/47434284"
+      },
+      {
+        "title": "Qualitative Evaluation of Information Display in a Regional Safety Map \"hamado-map\"",
+        "link": "https://researchmap.jp/read0043384/published_papers/39691836"
+      },
+      {
+        "title": "Prototype of paper map for practical use of regional safety map \"Hamādo-map\" and its questionnaire survey",
+        "link": "https://researchmap.jp/read0043384/published_papers/39691838"
+      },
+      {
+        "title": "Practical Evaluation of ICT-based Self-made Regional Safety Map through Residents' Workshop in a Historical Local Town",
+        "link": "https://researchmap.jp/read0043384/published_papers/15277056"
+      },
+      {
+        "title": "Analysis of Basic Characteristics of Presented Instructional Materials and Study of Factors of Comprehension",
+        "link": "https://researchmap.jp/read0043384/published_papers/15277053"
+      },
+      {
+        "title": "Review of Hazard Information Collected for Local Disaster Prevention by Residents in a Historical Local Town",
+        "link": "https://researchmap.jp/read0043384/published_papers/15277052"
+      },
+      {
+        "title": "Development of a Community-based Hazard Information Sharing System for Traditional Towns with Local Heritage",
+        "link": "https://researchmap.jp/read0043384/published_papers/15277051"
+      },
+      {
+        "title": "Cognitive Investigation of Dynamic Educational Presentation Toward Better Utilization of Presentation Characteristics",
+        "link": "https://researchmap.jp/read0043384/published_papers/15277050"
+      },
+      {
+        "title": "Prototyping of Community-based Hazard Mapping Support System for Traditional Towns with Local Heritage",
+        "link": "https://researchmap.jp/read0043384/published_papers/15277049"
+      },
+      {
+        "title": "書く過程を提示する動的教材提示の認知分析",
+        "link": "https://researchmap.jp/read0043384/published_papers/25253759"
+      },
+      {
+        "title": "危険箇所の分類のための災害種別に着目した自己組織化特徴マップの解析",
+        "link": "https://researchmap.jp/read0043384/published_papers/28378566"
+      },
+      {
+        "title": "Development of a Sustainable Community-based Hazard Map Creation Support System for Traditional Towns with Local Heritage",
+        "link": "https://researchmap.jp/read0043384/published_papers/15277048"
+      },
+      {
+        "title": "Design of Application Brightness Data Collection for Adaptive Visualization in Mobile Learning System",
+        "link": "https://researchmap.jp/read0043384/published_papers/15277047"
+      },
+      {
+        "title": "Design of an Integrated Monitoring System for Constructional Structures Based on Mobile Cloud in Traditional Towns with Local Heritage",
+        "link": "https://researchmap.jp/read0043384/published_papers/15277046"
+      },
+      {
+        "title": "Web認証ネットワークにおけるNATを経由する端末のアクセス禁止機能の開発",
+        "link": "https://researchmap.jp/read0043384/published_papers/15277045"
+      },
+      {
+        "title": "書字困難児童の学習特性に適応した手書き漢字学習支援ツールの開発と評価",
+        "link": "https://researchmap.jp/read0043384/published_papers/15277044"
+      },
+      {
+        "title": "Gaze Analysis and Subjective Assessment of Learners Observing the Writing Process",
+        "link": "https://researchmap.jp/read0043384/published_papers/15277043"
+      },
+      {
+        "title": "Eye tracker gaze analysis of learners watching the writing process",
+        "link": "https://researchmap.jp/read0043384/published_papers/15277042"
+      }
+    ]
+  },
+  {
+    "url": "https://researchmap.jp/read0068302",
+    "name": "奥村 浩",
+    "ruby": "オクムラ ヒロシ  (HIROSHI OKUMURA)",
+    "basic_info": {
+      "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 教授 (博士(学術))",
+      "学位": "博士(工学)(千葉大学) 工学修士(法政大学) 工学士(法政大学)",
+      "研究者番号": "50251195",
+      "外部リンク": "http://bach.ip.is.saga-u.ac.jp/"
+    },
+    "research_keywords": [
+      "光応用計測",
+      "リモートセンシング",
+      "音声情報処理",
+      "画像情報処理",
+      "Laser Radar",
+      "Remote Sensing",
+      "Speech Processing",
+      "Image Processing"
+    ],
+    "research_areas": [
+      "ものづくり技術（機械・電気電子・化学工学） / 計測工学 /",
+      "環境・農学 / 環境動態解析 /",
+      "情報通信 / 知能情報学 /"
+    ],
+    "major_papers": [
+      {
+        "title": "空間的一様性の検定を利用する多重分光画像の分類法",
+        "link": "https://researchmap.jp/read0068302/published_papers/25632089"
+      },
+      {
+        "title": "空間的一様性の検定を用いる画像データの領域分割法",
+        "link": "https://researchmap.jp/read0068302/published_papers/50227274"
+      },
+      {
+        "title": "空間的一様性の検定を用いる多重分光画像の教師なし分類法",
+        "link": "https://researchmap.jp/read0068302/published_papers/50227344"
+      },
+      {
+        "title": "空間的相関を利用する多次元画像間の自動重ね合せ",
+        "link": "https://researchmap.jp/read0068302/published_papers/50227320"
+      },
+      {
+        "title": "三角形領域の空間的相関を利用するリモートセンシング画像間の自動重ね合せ手法",
+        "link": "https://researchmap.jp/read0068302/published_papers/50227297"
+      },
+      {
+        "title": "LD励起YAGレーザーを光源とする可搬型ライダーシステムの試作",
+        "link": "https://researchmap.jp/read0068302/published_papers/50227371"
+      },
+      {
+        "title": "三角形領域の強制分割を用いる自動画像重ね合せ手法の改良とその性能評価",
+        "link": "https://researchmap.jp/read0068302/published_papers/50227230"
+      },
+      {
+        "title": "経時変化の有無の判定と変化パターンの識別に統計的検定を利用するリモートセンシング画像間の経時変化領域抽出法",
+        "link": "https://researchmap.jp/read0068302/published_papers/50227140"
+      },
+      {
+        "title": "A change detection method for remotely sensed images using a statistical test for change recognition and change pattern discrimination",
+        "link": "https://researchmap.jp/read0068302/published_papers/50227213"
+      },
+      {
+        "title": "An Automated Registration Technique for Remotely Sensed Images by Using Spatial Correlation between Local Triangles,",
+        "link": "https://researchmap.jp/read0068302/published_papers/50227390"
+      },
+      {
+        "title": "空間周波数領域における回転不変モーメントを用いたリモートセンシング画像のテクスチャ定量化手法",
+        "link": "https://researchmap.jp/read0068302/published_papers/50227076"
+      },
+      {
+        "title": "回転不変モーメントを入力とするニューラルネットを用いた画像重ね合わせ用対応点候補の自動選定",
+        "link": "https://researchmap.jp/read0068302/published_papers/50227050"
+      },
+      {
+        "title": "超音波画像を用いた皮下脂肪・筋・骨境界の自動判別",
+        "link": "https://researchmap.jp/read0068302/published_papers/50227034"
+      },
+      {
+        "title": "Development of a Ubiquitous Echographic Device for Evaluating Human Body Composition",
+        "link": "https://researchmap.jp/read0068302/published_papers/50226975"
+      },
+      {
+        "title": "人間の視細胞分光特性に基づく投影スライドの視認性評価",
+        "link": "https://researchmap.jp/read0068302/published_papers/50227012"
+      },
+      {
+        "title": "A Hybrid Supervised Classification Method for Multi Dimensional Images Using Color and Textural FeaturesA Hybrid Supervised Classification Method for Multi Dimensional Images Using Color and Textural Features",
+        "link": "https://researchmap.jp/read0068302/published_papers/50226948"
+      },
+      {
+        "title": "組織弾性特性を利用した筋・脂肪の自動判別",
+        "link": "https://researchmap.jp/read0068302/published_papers/50226910"
+      },
+      {
+        "title": "GOSATプロダクト検証用可搬型ライダーの開発",
+        "link": "https://researchmap.jp/read0068302/published_papers/50226865"
+      },
+      {
+        "title": "Comparison of 2D and 3D Local Binary Pattern in Lung Cancer Diagnosis",
+        "link": "https://researchmap.jp/read0068302/published_papers/50226821"
+      },
+      {
+        "title": "Automated Detection Method for Clustered Microcalcification in Mammogram Image Based on Statistical Textural Features",
+        "link": "https://researchmap.jp/read0068302/published_papers/50226791"
+      }
+    ]
+  },
+  {
+    "url": "https://researchmap.jp/kakeshita-tetsuro",
+    "name": "掛下 哲郎",
+    "ruby": "カケシタ テツロウ  (Tetsuro KAKESHITA)",
+    "basic_info": {
+      "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 准教授",
+      "学位": "工学博士(1989年3月 九州大学)",
+      "研究者番号": "10214272",
+      "外部リンク": "https://www.cs.is.saga-u.ac.jp/faculty/kakeshita.html"
+    },
+    "research_keywords": [
+      "情報教育",
+      "ソフトウェア工学",
+      "情報システム"
+    ],
+    "research_areas": [
+      "人文・社会 / 科学教育 / 情報教育",
+      "情報通信 / ソフトウェア /"
+    ],
+    "major_papers": [
+      {
+        "title": "日本の大学におけるデータサイエンス専門教育の現状",
+        "link": "https://researchmap.jp/kakeshita-tetsuro/published_papers/50507641"
+      },
+      {
+        "title": "小学校ICT教育におけるプライバシー保護と個人参加を実現する個人情報管理プロトタイプ",
+        "link": "https://researchmap.jp/kakeshita-tetsuro/published_papers/49986704"
+      },
+      {
+        "title": "Gather.townとVRカメラを活用した研究室紹介バーチャルツアー",
+        "link": "https://researchmap.jp/kakeshita-tetsuro/published_papers/49986755"
+      },
+      {
+        "title": "Fill-in-the-blank Questions for Object-Oriented Programming Education and Its Preliminary Evaluation",
+        "link": "https://researchmap.jp/kakeshita-tetsuro/published_papers/43531965"
+      },
+      {
+        "title": "Analysis of Student’s Learning Log Data in Fill-in-the-Blank Programming Questions",
+        "link": "https://researchmap.jp/kakeshita-tetsuro/published_papers/39869759"
+      },
+      {
+        "title": "Development of IPSJ Data Science Curriculum Standard",
+        "link": "https://researchmap.jp/kakeshita-tetsuro/published_papers/41091826"
+      },
+      {
+        "title": "Fill-in-the-blank Questions for Objected-Oriented Programming Education",
+        "link": "https://researchmap.jp/kakeshita-tetsuro/published_papers/39869771"
+      },
+      {
+        "title": "Analysis of Fill-in-the-blank Questions Provided by Programming Education Support Tool pgtracer",
+        "link": "https://researchmap.jp/kakeshita-tetsuro/published_papers/15276694"
+      },
+      {
+        "title": "Survey and Analysis of Computing Education at Japanese Universities: Subject of “Information” for High School Teacher’s License",
+        "link": "https://researchmap.jp/kakeshita-tetsuro/published_papers/15276693"
+      },
+      {
+        "title": "Survey and Analysis of Computing Educationat Japanese Universities: Informatics in General Education",
+        "link": "https://researchmap.jp/kakeshita-tetsuro/published_papers/15276692"
+      },
+      {
+        "title": "Survey and Analysis of Computing Educationat Japanese Universities: Non-IT Departments and Courses",
+        "link": "https://researchmap.jp/kakeshita-tetsuro/published_papers/15276691"
+      },
+      {
+        "title": "Student Log Analysis Functions for Web-based Programming Education Support Tool pgtracer",
+        "link": "https://researchmap.jp/kakeshita-tetsuro/published_papers/15276695"
+      },
+      {
+        "title": "Utilizing Software Engineering Education Support System ALECSS at an Actual Software Development Experiment: A Case Study",
+        "link": "https://researchmap.jp/kakeshita-tetsuro/published_papers/15276696"
+      },
+      {
+        "title": "教育成果の質と量に関するWeb調査を対象とする柔軟性の高いアンケートシステム",
+        "link": "https://researchmap.jp/kakeshita-tetsuro/published_papers/15276697"
+      },
+      {
+        "title": "高度IT資格制度を対象とする国際規格ISO/IEC24773",
+        "link": "https://researchmap.jp/kakeshita-tetsuro/published_papers/15276698"
+      },
+      {
+        "title": "A Comparison Analysis between Achievement and Requirements for Computing Education",
+        "link": "https://researchmap.jp/kakeshita-tetsuro/published_papers/15276700"
+      },
+      {
+        "title": "International Comparison of College-Level Computing Education",
+        "link": "https://researchmap.jp/kakeshita-tetsuro/published_papers/15276699"
+      },
+      {
+        "title": "National Survey of Japanese Universities on Computing Education: Analysis of Departments Majored in Computing Discipline",
+        "link": "https://researchmap.jp/kakeshita-tetsuro/published_papers/15276701"
+      },
+      {
+        "title": "Analysis of Student Activity and Its Effect Utilizing Programming Education Support Tool pgtracer",
+        "link": "https://researchmap.jp/kakeshita-tetsuro/published_papers/15276703"
+      },
+      {
+        "title": "Traceability Editing and Checking Functions for Requirement Management Education Support Tool REMEST",
+        "link": "https://researchmap.jp/kakeshita-tetsuro/published_papers/15276702"
+      }
+    ]
+  },
+  {
+    "url": "https://researchmap.jp/7000009333",
+    "name": "木下 武彦",
+    "ruby": "キノシタ タケヒコ  (Takehiko Kinoshita)",
+    "basic_info": {
+      "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 准教授",
+      "学位": "博士(数理学)(九州大学)",
+      "J-GLOBAL ID": "201401099086902197"
+    },
+    "research_keywords": [
+      "精度保証付き数値計算",
+      "計算機援用証明",
+      "スペクトル法",
+      "有限要素法",
+      "誤差評価"
+    ],
+    "research_areas": [
+      "自然科学一般 / 応用数学、統計数学 /",
+      "自然科学一般 / 数学基礎 /"
+    ],
+    "major_papers": [
+      {
+        "title": "An alternative approach to norm bound computation for inverses of linear operators in Hilbert spaces",
+        "link": "https://researchmap.jp/7000009333/published_papers/3794792"
+      },
+      {
+        "title": "An improved method for verifying the existence and bounds of the inverse of second-order linear elliptic operators mapping to dual space",
+        "link": "https://researchmap.jp/7000009333/published_papers/3794714"
+      },
+      {
+        "title": "Validated constructive error estimations for biharmonic problems",
+        "link": "https://researchmap.jp/7000009333/published_papers/3794700"
+      },
+      {
+        "title": "Some remarks on a priori estimates of highly regular solutions for the Poisson equation in polygonal domains",
+        "link": "https://researchmap.jp/7000009333/published_papers/3794686"
+      },
+      {
+        "title": "H3 and H4 regularities of the poisson equation on polygonal domains",
+        "link": "https://researchmap.jp/7000009333/published_papers/4344140"
+      },
+      {
+        "title": "Some remarks on the rigorous estimation of inverse linear elliptic operators",
+        "link": "https://researchmap.jp/7000009333/published_papers/3794489"
+      },
+      {
+        "title": "Some considerations of the invertibility verifications for linear elliptic operators",
+        "link": "https://researchmap.jp/7000009333/published_papers/13049022"
+      },
+      {
+        "title": "Recurrence relations of orthogonal polynomials in H01and H02",
+        "link": "https://researchmap.jp/7000009333/published_papers/3794662"
+      },
+      {
+        "title": "On the a posteriori estimates for inverse operators of linear parabolic equations with applications to the numerical enclosure of solutions for nonlinear problems",
+        "link": "https://researchmap.jp/7000009333/published_papers/13049023"
+      },
+      {
+        "title": "An improvement of the theorem of a posteriori estimates for inverse elliptic operators",
+        "link": "https://researchmap.jp/7000009333/published_papers/13049024"
+      },
+      {
+        "title": "A POSTERIORI ESTIMATES OF INVERSE OPERATORS FOR BOUNDARY VALUE PROBLEMS IN LINEAR ELLIPTIC PARTIAL DIFFERENTIAL EQUATIONS",
+        "link": "https://researchmap.jp/7000009333/published_papers/13049026"
+      },
+      {
+        "title": "Some remarks on the optimal L2 error estimates for the finite element method on the L-shaped domain",
+        "link": "https://researchmap.jp/7000009333/published_papers/3794639"
+      },
+      {
+        "title": "Some remarks on the instability of approximate solutions for ODEs",
+        "link": "https://researchmap.jp/7000009333/published_papers/13049027"
+      },
+      {
+        "title": "CONSTRUCTIVE A PRIORI ERROR ESTIMATES FOR A FULL DISCRETE APPROXIMATION OF THE HEAT EQUATION",
+        "link": "https://researchmap.jp/7000009333/published_papers/13049025"
+      },
+      {
+        "title": "On a posteriori estimates of inverse operators for linear parabolic initial-boundary value problems",
+        "link": "https://researchmap.jp/7000009333/published_papers/13049028"
+      },
+      {
+        "title": "A posteriori estimates of inverse operators for initial value problems in linear ordinary differential equations",
+        "link": "https://researchmap.jp/7000009333/published_papers/13049029"
+      },
+      {
+        "title": "On very accurate enclosure of the optimal constant in the a priori error estimates for H-0(2)-projection",
+        "link": "https://researchmap.jp/7000009333/published_papers/13049030"
+      },
+      {
+        "title": "On very accurate verification of solutions for boundary value problems by using spectral methods",
+        "link": "https://researchmap.jp/7000009333/published_papers/13049031"
+      },
+      {
+        "title": "On Verified Computations of the Optimal Constant in the a Priori Error Estimates for H(0)(2)-Projection",
+        "link": "https://researchmap.jp/7000009333/published_papers/4385960"
+      },
+      {
+        "title": "On the L2 a Priori Error Estimates to the Finite Element Solution of Elliptic Problems with Singular Adjoint Operator",
+        "link": "https://researchmap.jp/7000009333/published_papers/13049032"
+      }
+    ]
+  },
+  {
+    "url": "https://researchmap.jp/read0150456",
+    "name": "木村 拓馬",
+    "ruby": "キムラ タクマ  (Takuma KIMURA)",
+    "basic_info": {
+      "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 准教授",
+      "学位": "博士（理学）(弘前大学)",
+      "研究者番号": "60581618"
+    },
+    "research_keywords": [
+      "数値線形代数",
+      "計算機援用証明",
+      "誤差解析",
+      "誤差評価",
+      "熱方程式",
+      "誤差",
+      "数理計画",
+      "偏微分方程式",
+      "有限要素法",
+      "精度保証付き数値計算",
+      "数値計算",
+      "数値解析"
+    ],
+    "research_areas": [
+      "情報通信 / 計算科学 /",
+      "自然科学一般 / 応用数学、統計数学 /",
+      "自然科学一般 / 数学基礎 /"
+    ],
+    "major_papers": [
+      {
+        "title": "Constructive error estimates for a full-discretized periodic solution of heat equation by spatial finite-element and time spectral method",
+        "link": "https://researchmap.jp/read0150456/published_papers/49142962"
+      },
+      {
+        "title": "Preparation of a Porous Spherical Adsorbent by Oil-In-Water-In-Oil Emulsion Polymerization for Phycocyanin Adsorption",
+        "link": "https://researchmap.jp/read0150456/published_papers/49142613"
+      },
+      {
+        "title": "Improvement of the Constructive A Priori Error Estimates for a Fully Discretized Periodic Solution of Heat Equation",
+        "link": "https://researchmap.jp/read0150456/published_papers/37088146"
+      },
+      {
+        "title": "Constructive a priori error estimates for a full discrete approximation of periodic solutions for the heat equation",
+        "link": "https://researchmap.jp/read0150456/published_papers/16755989"
+      },
+      {
+        "title": "Constructive error analysis of a full-discrete finite element method for the heat equation",
+        "link": "https://researchmap.jp/read0150456/published_papers/16755990"
+      },
+      {
+        "title": "A method for verifying the accuracy of numerical solutions of symmetric saddle point linear systems",
+        "link": "https://researchmap.jp/read0150456/published_papers/16755995"
+      },
+      {
+        "title": "Optimal order constructive a priori error estimates for a full discrete approximation of the heat equation",
+        "link": "https://researchmap.jp/read0150456/published_papers/16755993"
+      },
+      {
+        "title": "Some considerations of the invertibility verifications for linear elliptic operators",
+        "link": "https://researchmap.jp/read0150456/published_papers/16755996"
+      },
+      {
+        "title": "On the a posteriori estimates for inverse operators of linear parabolic equations with applications to the numerical enclosure of solutions for nonlinear problems",
+        "link": "https://researchmap.jp/read0150456/published_papers/16755997"
+      },
+      {
+        "title": "VALIDATED SOLUTIONS FOR P-MATRIX LINEAR COMPLEMENTARITY PROBLEMS",
+        "link": "https://researchmap.jp/read0150456/published_papers/16755998"
+      },
+      {
+        "title": "Some remarks on the instability of approximate solutions for ODEs",
+        "link": "https://researchmap.jp/read0150456/published_papers/16756000"
+      },
+      {
+        "title": "CONSTRUCTIVE A PRIORI ERROR ESTIMATES FOR A FULL DISCRETE APPROXIMATION OF THE HEAT EQUATION",
+        "link": "https://researchmap.jp/read0150456/published_papers/16755999"
+      },
+      {
+        "title": "On a posteriori estimates of inverse operators for linear parabolic initial-boundary value problems",
+        "link": "https://researchmap.jp/read0150456/published_papers/16756001"
+      },
+      {
+        "title": "A posteriori estimates of inverse operators for initial value problems in linear ordinary differential equations",
+        "link": "https://researchmap.jp/read0150456/published_papers/16756003"
+      },
+      {
+        "title": "KEPLER’S OCTIC CURVE AS A MODEL OF MARS’S ORBIT",
+        "link": "https://researchmap.jp/read0150456/published_papers/49143396"
+      },
+      {
+        "title": "Kepler's quartic curve as a model of planetary orbits",
+        "link": "https://researchmap.jp/read0150456/published_papers/48348412"
+      },
+      {
+        "title": "Topological Properties of the Numerical Range of Matrix Polynomials",
+        "link": "https://researchmap.jp/read0150456/published_papers/37088661"
+      },
+      {
+        "title": "VALIDATED SOLUTIONS OF SADDLE POINT LINEAR SYSTEMS",
+        "link": "https://researchmap.jp/read0150456/published_papers/16756002"
+      },
+      {
+        "title": "Verification of solutions for linear equations by RICCG method",
+        "link": "https://researchmap.jp/read0150456/published_papers/16756004"
+      },
+      {
+        "title": "包絡分析法による金融機関の効率性に関する分析",
+        "link": "https://researchmap.jp/read0150456/published_papers/48348339"
+      }
+    ]
+  },
+  {
+    "url": "https://researchmap.jp/read20180918",
+    "name": "中村 伊南沙",
+    "ruby": "Inasa Nakamura",
+    "basic_info": {
+      "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 教授",
+      "J-GLOBAL ID": "201801000135062497",
+      "外部リンク": "http://inasa.ms.saga-u.ac.jp/"
+    },
+    "research_keywords": [
+      "曲面ブレイド",
+      "曲面絡み目",
+      "曲面結び目",
+      "絡み目",
+      "結び目"
+    ],
+    "research_areas": [
+      "自然科学一般 / 幾何学 /"
+    ],
+    "major_papers": [
+      {
+        "title": "Closure of knitted surfaces and surface-links",
+        "link": "https://researchmap.jp/read20180918/published_papers/50031949"
+      },
+      {
+        "title": "Deformations of dotted graphs consisting of standard circles",
+        "link": "https://researchmap.jp/read20180918/published_papers/50031926"
+      },
+      {
+        "title": "Surfaces in the 4-ball constructed using generators of knits and their graphical description",
+        "link": "https://researchmap.jp/read20180918/published_papers/50031915"
+      },
+      {
+        "title": "Transformations of partial matchings",
+        "link": "https://researchmap.jp/read20180918/published_papers/1535746"
+      },
+      {
+        "title": "Branched covering surface-knots with degree three have the simplifying numbers less than three",
+        "link": "https://researchmap.jp/read20180918/published_papers/1535782"
+      },
+      {
+        "title": "Simplifying branched covering surface-knots by an addition of 1-handles with chart loops",
+        "link": "https://researchmap.jp/read20180918/published_papers/1535704"
+      },
+      {
+        "title": "Simplifying branched covering surface-knots by chart moves involving black vertices",
+        "link": "https://researchmap.jp/read20180918/published_papers/1535729"
+      },
+      {
+        "title": "On addition of 1-handles with chart loops to 2-dimensional braids",
+        "link": "https://researchmap.jp/read20180918/published_papers/1535670"
+      },
+      {
+        "title": "SHOWING DISTINCTNESS OF SURFACE LINKS BY TAKING 2-DIMENSIONAL BRAIDS",
+        "link": "https://researchmap.jp/read20180918/published_papers/1535666"
+      },
+      {
+        "title": "On surface links whose link groups are abelian (vol 157, pg 63, 2014)",
+        "link": "https://researchmap.jp/read20180918/published_papers/1535342"
+      },
+      {
+        "title": "On surface links whose link groups are abelian",
+        "link": "https://researchmap.jp/read20180918/published_papers/1507350"
+      },
+      {
+        "title": "Satellites of an oriented surface link and their local moves",
+        "link": "https://researchmap.jp/read20180918/published_papers/1507162"
+      },
+      {
+        "title": "Surface links with free abelian groups",
+        "link": "https://researchmap.jp/read20180918/published_papers/1507079"
+      },
+      {
+        "title": "Unknotting numbers and triple point cancelling numbers of torus-covering knots",
+        "link": "https://researchmap.jp/read20180918/published_papers/1507063"
+      },
+      {
+        "title": "UNKNOTTING THE SPUN T-2-KNOT OF A CLASSICAL TORUS KNOT",
+        "link": "https://researchmap.jp/read20180918/published_papers/1507114"
+      },
+      {
+        "title": "Triple linking numbers and triple point numbers of certain T-2-links",
+        "link": "https://researchmap.jp/read20180918/published_papers/1507107"
+      },
+      {
+        "title": "BRAIDING SURFACE LINKS WHICH ARE COVERINGS OVER THE STANDARD TORUS",
+        "link": "https://researchmap.jp/read20180918/published_papers/1507128"
+      },
+      {
+        "title": "Surface links which are coverings over the standard torus",
+        "link": "https://researchmap.jp/read20180918/published_papers/1507133"
+      },
+      {
+        "title": "UNKNOTTING SINGULAR CHARTS WITH NO BLACK VERTICES BY REDUCING NODE-PAIRS",
+        "link": "https://researchmap.jp/read20180918/published_papers/1507154"
+      }
+    ]
+  },
+  {
+    "url": "https://researchmap.jp/koichi_nakayama",
+    "name": "中山 功一",
+    "ruby": "ナカヤマ コウイチ  (Koichi Nakayama)",
+    "basic_info": {
+      "所属": "佐賀大学 理工学系（理工学部） 教授",
+      "学位": "博士（情報学）(京都大学) 修士（工学）(三重大学)",
+      "研究者番号": "50418498",
+      "外部リンク": "http://www.fu.is.saga-u.ac.jp/~knakayama/"
+    },
+    "research_keywords": [
+      "ブロックチェーン",
+      "介護スタッフ支援システム",
+      "認知症支援システム",
+      "防災システム",
+      "ディープラーニング",
+      "機械学習",
+      "人工知能",
+      "創発メカニズム",
+      "知能システム",
+      "マルチエージェントシステム",
+      "遺伝的アルゴリズム",
+      "Emergent Design",
+      "Multi-Agent System",
+      "Genetic Algorithm"
+    ],
+    "research_areas": [
+      "ライフサイエンス / 高齢者看護学、地域看護学 /",
+      "ライフサイエンス / リハビリテーション科学 /",
+      "社会基盤（土木・建築・防災） / 安全工学 /",
+      "社会基盤（土木・建築・防災） / 社会システム工学 /",
+      "情報通信 / 生命、健康、医療情報学 /",
+      "情報通信 / ソフトコンピューティング /",
+      "情報通信 / 学習支援システム /",
+      "情報通信 / 情報セキュリティ /",
+      "情報通信 / 機械力学、メカトロニクス /",
+      "情報通信 / ロボティクス、知能機械システム /",
+      "情報通信 / 知能情報学 /"
+    ],
+    "major_papers": [
+      {
+        "title": "Examining the Relationship Between Playing a Chord with Expressions and Hand Movements Using MediaPipe（査読付きLecture Notes）",
+        "link": "https://researchmap.jp/koichi_nakayama/published_papers/47392788"
+      },
+      {
+        "title": "Generating Various 3D Motions by Emergent Imitation Learning（査読付きLecture Notes）",
+        "link": "https://researchmap.jp/koichi_nakayama/published_papers/43928053"
+      },
+      {
+        "title": "再会した人物との自伝的エピソード記憶を想起する手段 ～名刺とスケジュール情報の比較～（査読付き原著論文）",
+        "link": "https://researchmap.jp/koichi_nakayama/published_papers/43928046"
+      },
+      {
+        "title": "Improving a Physical Search System that Detects Even Unknown Displaced Objects Using Image Differences（査読付き国際会議論文）",
+        "link": "https://researchmap.jp/koichi_nakayama/published_papers/40224325"
+      },
+      {
+        "title": "The Overheard Text Map: A Voice Communication System that Displays Word Clouds of a Conversation in a Virtual Room to Participants Outside the Room（査読付きLecture Notes）",
+        "link": "https://researchmap.jp/koichi_nakayama/published_papers/39890798"
+      },
+      {
+        "title": "カメラ以外のセンサと学習用データの事前登録が不要なフィジカルサーチシステムの提案と検証（査読付き原著論文）",
+        "link": "https://researchmap.jp/koichi_nakayama/published_papers/40224333"
+      },
+      {
+        "title": "ギター演奏支援装置“F Ready ” の開発（査読付き原著論文）",
+        "link": "https://researchmap.jp/koichi_nakayama/published_papers/35753551"
+      },
+      {
+        "title": "Support Device for Playing Guitar “F-ready” -Confirmation Regarding Measurement of Rehabilitation Effect of Hand Position-（査読付き国際会議論文）",
+        "link": "https://researchmap.jp/koichi_nakayama/published_papers/40224321"
+      },
+      {
+        "title": "A Facilitator Support System that Overlooks Keywords Expressing the True Intentions of All Discussion Participants（査読付き原著論文）",
+        "link": "https://researchmap.jp/koichi_nakayama/published_papers/33979093"
+      },
+      {
+        "title": "Online Discussion Support System with Facilitation Function（査読付き原著論文）",
+        "link": "https://researchmap.jp/koichi_nakayama/published_papers/33979088"
+      },
+      {
+        "title": "Standard Assessment of Gerontic Activity（SAGA）web applicationを用いたパズル塗り絵における高齢者の認知機能と作業能力の評価との関連性（査読付き原著論文）",
+        "link": "https://researchmap.jp/koichi_nakayama/published_papers/33979071"
+      },
+      {
+        "title": "AI Facilitator Allows Participants to Conduct a Friendly Discussion and Contribute to Feasible Proposals（査読付き国際会議論文）",
+        "link": "https://researchmap.jp/koichi_nakayama/published_papers/33979064"
+      },
+      {
+        "title": "A Support System to Encourage Idea Generation During Videoconference Brainstorming（査読付き国際会議論文）",
+        "link": "https://researchmap.jp/koichi_nakayama/published_papers/30549712"
+      },
+      {
+        "title": "Optimizing Combinations of Teaching Image Data for Detecting Objects in Images（査読付きLecture Notes）",
+        "link": "https://researchmap.jp/koichi_nakayama/published_papers/30549364"
+      },
+      {
+        "title": "Drowsy Bather Detection Using a Triaxial Accelerometer（査読付きLecture Notes）",
+        "link": "https://researchmap.jp/koichi_nakayama/published_papers/30549345"
+      },
+      {
+        "title": "Reaching a Final Consensus in a Discussion: the Impact of Real-time Intention Expression Related to Categories（査読付き国際会議論文）",
+        "link": "https://researchmap.jp/koichi_nakayama/published_papers/30549706"
+      },
+      {
+        "title": "Image Search based on Words Extracted from Others’ Utterances for Effective Idea Generation（査読付き原著論文）",
+        "link": "https://researchmap.jp/koichi_nakayama/published_papers/30549339"
+      },
+      {
+        "title": "F-ready: A support device that allows disabled people to play the guitar（査読付き国際会議論文）",
+        "link": "https://researchmap.jp/koichi_nakayama/published_papers/5926259"
+      },
+      {
+        "title": "A Tool for C++ Header GenerationAn Extension of the C++ Programming Language（査読付き原著論文）",
+        "link": "https://researchmap.jp/koichi_nakayama/published_papers/5926266"
+      },
+      {
+        "title": "Estimating Timing of Head Movements Based on the Volume and Pitch of Speech （査読付きLecture Notes）",
+        "link": "https://researchmap.jp/koichi_nakayama/published_papers/5926265"
+      }
+    ]
+  },
+  {
+    "url": "https://researchmap.jp/read0092611",
+    "name": "花田 英輔",
+    "ruby": "ハナダ エイスケ  (Eisuke Hanada)",
+    "basic_info": {
+      "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 教授",
+      "学位": "博士（工学）(佐賀大学)",
+      "ORCID iD": "https://orcid.org/0000-0002-6718-0101"
+    },
+    "research_keywords": [
+      "病院設備学",
+      "雑音・ＥＭＣ",
+      "社会医学一般",
+      "Telemedicine",
+      "Wireless Communication",
+      "EMC"
+    ],
+    "research_areas": [
+      "ライフサイエンス / 医療管理学、医療系社会学 /",
+      "ものづくり技術（機械・電気電子・化学工学） / 通信工学 /"
+    ],
+    "major_papers": [
+      {
+        "title": "A Comparative Analysis of Hyper-Parameter Optimization Methods for Predicting Heart Failure Outcomes",
+        "link": "https://researchmap.jp/read0092611/published_papers/49944822"
+      },
+      {
+        "title": "An Approach to Fall Detection Using Statistical Distributions of Thermal Signatures Obtained by a Stand-Alone Low-Resolution IR Array Sensor Device",
+        "link": "https://researchmap.jp/read0092611/published_papers/49944821"
+      },
+      {
+        "title": "ChatGPT (GPT-4V) Performance on the Healthcare Information Technologist Examination in Japan",
+        "link": "https://researchmap.jp/read0092611/published_papers/48864654"
+      },
+      {
+        "title": "Impact of Data Pre-Processing Techniques on XGBoost Model Performance for Predicting All-Cause Readmission and Mortality Among Patients with Heart Failure",
+        "link": "https://researchmap.jp/read0092611/published_papers/49944820"
+      },
+      {
+        "title": "Problematic hospital architecture: ensuring the stable operation of wireless communication",
+        "link": "https://researchmap.jp/read0092611/published_papers/49392693"
+      },
+      {
+        "title": "Electromagnetic Compatibility Issues in 400-MHz-Band Wireless Medical Telemetry Systems and Their Management Using Simplified Methods for Safe Operation.",
+        "link": "https://researchmap.jp/read0092611/published_papers/47328445"
+      },
+      {
+        "title": "Considerations for the effective management of LANs in hospital buildings",
+        "link": "https://researchmap.jp/read0092611/published_papers/49392692"
+      },
+      {
+        "title": "A Low-Resolution Infrared Array for Unobtrusive Human Activity Recognition That Preserves Privacy",
+        "link": "https://researchmap.jp/read0092611/published_papers/49944819"
+      },
+      {
+        "title": "Predictive Analytics in Heart Failure Prediction: A Systematic Review",
+        "link": "https://researchmap.jp/read0092611/published_papers/49944818"
+      },
+      {
+        "title": "The Methods of Fall Detection: A Literature Review",
+        "link": "https://researchmap.jp/read0092611/published_papers/49944817"
+      },
+      {
+        "title": "Foreword: Special section on information and communication technology for IoT/CPS in medicine and healthcare",
+        "link": "https://researchmap.jp/read0092611/published_papers/49944816"
+      },
+      {
+        "title": "Study of Electromagnetic Noise Radiated from LED Shadowless Lighting and Its Effect on Surgical Navigation System",
+        "link": "https://researchmap.jp/read0092611/published_papers/47065633"
+      },
+      {
+        "title": "LED無影灯から発生する電磁ノイズの評価と磁場式ナビゲーションシステムへの影響検証",
+        "link": "https://researchmap.jp/read0092611/published_papers/41432256"
+      },
+      {
+        "title": "Managing the Environment for IoT Systems - Toward a \"Smart Hospital\"",
+        "link": "https://researchmap.jp/read0092611/published_papers/15135548"
+      },
+      {
+        "title": "Managing the electromagnetic environment of hospital IoT systems",
+        "link": "https://researchmap.jp/read0092611/published_papers/47060117"
+      },
+      {
+        "title": "Observation of electromagnetic noise from LED shadowless lights",
+        "link": "https://researchmap.jp/read0092611/published_papers/47060043"
+      },
+      {
+        "title": "Electromagnetic compatibility of wireless medical telemetry systems and light-emitting diode (LED) lamps",
+        "link": "https://researchmap.jp/read0092611/published_papers/15135516"
+      },
+      {
+        "title": "Newly identified electromagnetic problems with medical telemetry systems",
+        "link": "https://researchmap.jp/read0092611/published_papers/15135515"
+      },
+      {
+        "title": "EMC of wireless medical telemeters and noise radiated from light emitting diode lamps",
+        "link": "https://researchmap.jp/read0092611/published_papers/29726289"
+      },
+      {
+        "title": "医療機関でのLED照明の安全な導入に向けた電磁環境面での評価 -医用テレメータへの影響の検証-",
+        "link": "https://researchmap.jp/read0092611/published_papers/15135549"
+      }
+    ]
+  },
+  {
+    "url": "https://researchmap.jp/handak",
+    "name": "半田 賢司",
+    "ruby": "ハンダ ケンジ  (Kenji Handa)",
+    "basic_info": {
+      "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 教授",
+      "学位": "博士（理学）",
+      "研究者番号": "10238214"
+    },
+    "research_keywords": [],
+    "research_areas": [
+      "自然科学一般 / 基礎解析学 /"
+    ],
+    "major_papers": [
+      {
+        "title": "Ergodic properties for alpha-CIR models and a class of generalized Fleming-Viot processes",
+        "link": "https://researchmap.jp/handak/published_papers/15156841"
+      },
+      {
+        "title": "STATIONARY DISTRIBUTIONS FOR A CLASS OF GENERALIZED FLEMING-VIOT PROCESSES",
+        "link": "https://researchmap.jp/handak/published_papers/15156840"
+      },
+      {
+        "title": "The sector constants of continuous state branching processes with immigration",
+        "link": "https://researchmap.jp/handak/published_papers/15156837"
+      },
+      {
+        "title": "The two-parameter Poisson-Dirichlet point process",
+        "link": "https://researchmap.jp/handak/published_papers/15156836"
+      },
+      {
+        "title": "Sampling formulae for symmetric selection",
+        "link": "https://researchmap.jp/handak/published_papers/15156835"
+      },
+      {
+        "title": "Reversible distributions of multi-allelic Gillespie-Sato diffusion models",
+        "link": "https://researchmap.jp/handak/published_papers/15156842"
+      },
+      {
+        "title": "Quasi-invariance and reversibility in the Fleming-Viot process",
+        "link": "https://researchmap.jp/handak/published_papers/15156843"
+      },
+      {
+        "title": "Quasi-invariant measures and their characterization by conditional probabilities",
+        "link": "https://researchmap.jp/handak/published_papers/15156844"
+      },
+      {
+        "title": "A LOWER BOUND FOR TIME CORRELATION OF LATTICE GASES",
+        "link": "https://researchmap.jp/handak/published_papers/28671268"
+      }
+    ]
+  },
+  {
+    "url": "https://researchmap.jp/read0043377",
+    "name": "日比野 雄嗣",
+    "ruby": "Yuji HIBINO",
+    "basic_info": {
+      "学位": "博士(理学)(熊本大学) 理学修士(名古屋大学)",
+      "J-GLOBAL ID": "200901081602272956",
+      "外部リンク": "http://hibino.ms.saga-u.ac.jp/"
+    },
+    "research_keywords": [
+      "ガウス過程 標準表現",
+      "canonical representation",
+      "Gaussian process"
+    ],
+    "research_areas": [
+      "自然科学一般 / 応用数学、統計数学 /",
+      "自然科学一般 / 基礎解析学 /"
+    ],
+    "major_papers": [
+      {
+        "title": "Construction of the Canonical Representation from a Noncanonical Representation",
+        "link": "https://researchmap.jp/read0043377/published_papers/49982798"
+      },
+      {
+        "title": "量子確率論の視点から見た等質樹木の距離２グラフのスペクトル分布",
+        "link": "https://researchmap.jp/read0043377/published_papers/15156435"
+      },
+      {
+        "title": "Asymptotic spectral distributions of distance-k graphs of Hamming graphs",
+        "link": "https://researchmap.jp/read0043377/published_papers/15156436"
+      },
+      {
+        "title": "Asymptotic spectral distributions of distance-k graphs of Cartesian product graphs",
+        "link": "https://researchmap.jp/read0043377/published_papers/15156453"
+      },
+      {
+        "title": "Asymptotic spectral distributions of distance-k graphs of Cartesian product graphs",
+        "link": "https://researchmap.jp/read0043377/published_papers/15156437"
+      },
+      {
+        "title": "Asymptotic spectral analysis of a distance k-graph of N-fold direct product of a graph",
+        "link": "https://researchmap.jp/read0043377/published_papers/15156438"
+      },
+      {
+        "title": "ASYMPTOTIC SPECTRAL ANALYSIS OF A GENERALIZED N-CUBE BY A QUANTUM PROBABILISTIC METHOD",
+        "link": "https://researchmap.jp/read0043377/published_papers/15156439"
+      },
+      {
+        "title": "Topics on noncanonical representations of Gaussian processes",
+        "link": "https://researchmap.jp/read0043377/published_papers/15156440"
+      },
+      {
+        "title": "Noncanonical representations of a multi-dimensional Brownian motion",
+        "link": "https://researchmap.jp/read0043377/published_papers/15156441"
+      },
+      {
+        "title": "Volterra representations of Gaussian processes with an infinite-dimensional orthogonal complement",
+        "link": "https://researchmap.jp/read0043377/published_papers/15156480"
+      },
+      {
+        "title": "A topic on noncanonical representations of Gaussian processes",
+        "link": "https://researchmap.jp/read0043377/published_papers/15156455"
+      },
+      {
+        "title": "A topic on noncanonical representations of Gaussian processes",
+        "link": "https://researchmap.jp/read0043377/published_papers/15156442"
+      },
+      {
+        "title": "Another noncanonical representation of a Brownian motion related to singular Volterra kernels",
+        "link": "https://researchmap.jp/read0043377/published_papers/15156444"
+      },
+      {
+        "title": "Volterra representations of Gaussian processes with an infinite-dimensional orthogonal complement",
+        "link": "https://researchmap.jp/read0043377/published_papers/15156443"
+      },
+      {
+        "title": "Canonical representation of stationary quantum Gaussian processes",
+        "link": "https://researchmap.jp/read0043377/published_papers/15156482"
+      },
+      {
+        "title": "Canonical property of representations of Gaussian processes with singular Volterra kernels",
+        "link": "https://researchmap.jp/read0043377/published_papers/15156459"
+      },
+      {
+        "title": "Canonical property of representations of Gaussian processes with singular Volterra kernels",
+        "link": "https://researchmap.jp/read0043377/published_papers/15156446"
+      },
+      {
+        "title": "Canonical representation of stationary quantum Gaussian processes",
+        "link": "https://researchmap.jp/read0043377/published_papers/15156445"
+      },
+      {
+        "title": "Remarks on a noncanonical representation for a stationary Gaussian process",
+        "link": "https://researchmap.jp/read0043377/published_papers/15156447"
+      },
+      {
+        "title": "Remarks on a noncanonical representation for a stationary Gaussian process.",
+        "link": "https://researchmap.jp/read0043377/published_papers/15156460"
+      }
+    ]
+  },
+  {
+    "url": "https://researchmap.jp/read0143510",
+    "name": "廣友 雅徳",
+    "ruby": "ヒロトモ マサノリ  (Masanori Hirotomo)",
+    "basic_info": {
+      "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 本務／准教授",
+      "学位": "博士（工学）（徳島大学） 修士（工学）（徳島大学）",
+      "J-GLOBAL ID": "200901098811115698",
+      "外部リンク": "http://www.ma.is.saga-u.ac.jp/hirotomo/"
+    },
+    "research_keywords": [],
+    "research_areas": [],
+    "major_papers": [
+      {
+        "title": "Zero-Knowledge Identification Scheme Using LDPC Codes",
+        "link": "https://researchmap.jp/read0143510/published_papers/16401450"
+      },
+      {
+        "title": "Further Results on the Error Correction Capability of Irregular LDPC Codes under the Gallager A Algorithm",
+        "link": "https://researchmap.jp/read0143510/published_papers/16401451"
+      },
+      {
+        "title": "マルチ環境解析とJavaScript解析を組み合せた悪性Webサイトのクローキング分析手法",
+        "link": "https://researchmap.jp/read0143510/published_papers/16401449"
+      },
+      {
+        "title": "Error-Trapping Decoding for Cyclic Codes over Symbol-Pair Read Channels",
+        "link": "https://researchmap.jp/read0143510/published_papers/16401447"
+      },
+      {
+        "title": "Coded Caching for Hierarchical Networks with a Different Number of Layers",
+        "link": "https://researchmap.jp/read0143510/published_papers/16401448"
+      },
+      {
+        "title": "Multi-Environment Analysis System for Evaluating the Impact of Malicious Web Sites Changing Their Behavior",
+        "link": "https://researchmap.jp/read0143510/published_papers/16401446"
+      },
+      {
+        "title": "Delivering CRL with Low Bit Rate Network Coded Communication for ITS",
+        "link": "https://researchmap.jp/read0143510/published_papers/16401445"
+      },
+      {
+        "title": "Efficient Method for Analyzing Malicious Websites by Using Multi-Environment Analysis System",
+        "link": "https://researchmap.jp/read0143510/published_papers/16401444"
+      },
+      {
+        "title": "Algebraic Decoding of BCH Codes over Symbol-Pair Read Channels: Cases of Two-Pair Error and Three-Pair Error Correction",
+        "link": "https://researchmap.jp/read0143510/published_papers/16401440"
+      },
+      {
+        "title": "Error-Trapping Decoding for Cyclic Codes over Symbol-Pair Read Channels",
+        "link": "https://researchmap.jp/read0143510/published_papers/16401443"
+      },
+      {
+        "title": "Error Correction Capability of Irregular LDPC Codes under the Gallager A Algorithm",
+        "link": "https://researchmap.jp/read0143510/published_papers/16401442"
+      },
+      {
+        "title": "医療情報システム利用者の安心感の要因に関する調査",
+        "link": "https://researchmap.jp/read0143510/published_papers/16401439"
+      },
+      {
+        "title": "LDPC Codes and Iterative Decoding over Symbol-Tuple Error Channels",
+        "link": "https://researchmap.jp/read0143510/published_papers/16401441"
+      },
+      {
+        "title": "A Decoding Algorithm for Cyclic Codes over Symbol-Pair Read Channels",
+        "link": "https://researchmap.jp/read0143510/published_papers/16401438"
+      },
+      {
+        "title": "Syndrome Decoding of Symbol-Pair Codes",
+        "link": "https://researchmap.jp/read0143510/published_papers/16401437"
+      },
+      {
+        "title": "A Method for Computing the Weight Spectrum of LDPC Convolutional Codes Based on Circulant Matrices",
+        "link": "https://researchmap.jp/read0143510/published_papers/16401434"
+      },
+      {
+        "title": "Windows APIフックを用いた通信監視による不正なPDFファイルの検知",
+        "link": "https://researchmap.jp/read0143510/published_papers/16401433"
+      },
+      {
+        "title": "Syndrome Decoding of Symbol-Pair Codes",
+        "link": "https://researchmap.jp/read0143510/published_papers/16401435"
+      },
+      {
+        "title": "On Computing the Weight Distribution of Non-Binary LDPC Codes Using the Probabilistic Algorithm",
+        "link": "https://researchmap.jp/read0143510/published_papers/16401436"
+      },
+      {
+        "title": "平時から災害時へ連続的に利用可能な被災者を直接的に支援するデュアルパーパス情報共有システム",
+        "link": "https://researchmap.jp/read0143510/published_papers/16401432"
+      }
+    ]
+  },
+  {
+    "url": "https://researchmap.jp/fukudao",
+    "name": "福田 修",
+    "ruby": "フクダ オサム  (Osamu FUKUDA)",
+    "basic_info": {
+      "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 教授",
+      "学位": "博士（工学）(広島大学)",
+      "J-GLOBAL ID": "201801019103678669",
+      "外部リンク": "http://cps.ip.is.saga-u.ac.jp/"
+    },
+    "research_keywords": [],
+    "research_areas": [
+      "情報通信 / 機械力学、メカトロニクス /",
+      "情報通信 / ロボティクス、知能機械システム /",
+      "情報通信 / 知能ロボティクス /",
+      "情報通信 / ヒューマンインタフェース、インタラクション /",
+      "情報通信 / 知覚情報処理 /"
+    ],
+    "major_papers": [
+      {
+        "title": "Infant-Carrying Posture Determination Using RGB Camera and BlazePose.",
+        "link": "https://researchmap.jp/fukudao/published_papers/50042470"
+      },
+      {
+        "title": "Design of human motion detection for non-verbal collaborative robot communication cue.",
+        "link": "https://researchmap.jp/fukudao/published_papers/50042469"
+      },
+      {
+        "title": "Development of Strawberry Harvest Support System Using Smart Glasses.",
+        "link": "https://researchmap.jp/fukudao/published_papers/50042472"
+      },
+      {
+        "title": "Extraction of color information array from RGB-NIR images enhanced by multispectral illumination and image classification by LLGMN.",
+        "link": "https://researchmap.jp/fukudao/published_papers/50042471"
+      },
+      {
+        "title": "Estimating Tomato Plant Leaf Area Using Multiple Images from Different Viewing Angles.",
+        "link": "https://researchmap.jp/fukudao/published_papers/48076661"
+      },
+      {
+        "title": "Human augmentation hand for cooperative solving of dissection puzzle problem.",
+        "link": "https://researchmap.jp/fukudao/published_papers/48076660"
+      },
+      {
+        "title": "Bicycle-based collision prevention system using pedestrian trajectory prediction with an iPhone.",
+        "link": "https://researchmap.jp/fukudao/published_papers/50042475"
+      },
+      {
+        "title": "Estimating tomato plant leaf area in greenhouse environment using multiple RGB-D cameras.",
+        "link": "https://researchmap.jp/fukudao/published_papers/50042474"
+      },
+      {
+        "title": "Validation of a Nondestructive Measurement System for Evaluating Surface Charge Distribution of Nonwoven Electret Fabrics.",
+        "link": "https://researchmap.jp/fukudao/published_papers/50042473"
+      },
+      {
+        "title": "Machine learning prediction of drug dynamics in dasatinib.",
+        "link": "https://researchmap.jp/fukudao/published_papers/49191198"
+      },
+      {
+        "title": "The Effect of AI Accuracy and Type of Feedback on Human Decision Making.",
+        "link": "https://researchmap.jp/fukudao/published_papers/48076666"
+      },
+      {
+        "title": "A Target Following Robot for Navigation Assistance for People with Visual Impairments.",
+        "link": "https://researchmap.jp/fukudao/published_papers/48076665"
+      },
+      {
+        "title": "A Co-Thinking Collaborative Manipulator for Solving Combinatorial Optimization Problems.",
+        "link": "https://researchmap.jp/fukudao/published_papers/48076664"
+      },
+      {
+        "title": "Strawberry Packaging Support System Based on Image Recognition.",
+        "link": "https://researchmap.jp/fukudao/published_papers/48076663"
+      },
+      {
+        "title": "Texture Image Classification Using LLGMN and HLAC Features.",
+        "link": "https://researchmap.jp/fukudao/published_papers/48076662"
+      },
+      {
+        "title": "Extraction and Classification of Surface Color Information Using Selective LED Illumination and a Statistical Neural Network.",
+        "link": "https://researchmap.jp/fukudao/published_papers/48076659"
+      },
+      {
+        "title": "Co-Thinking Device for Simultaneous Support of Human Cognitive and Physical Functions.",
+        "link": "https://researchmap.jp/fukudao/published_papers/48076658"
+      },
+      {
+        "title": "Development of a Perioperative Medication Suspension Decision Algorithm Based on Bayesian Networks",
+        "link": "https://researchmap.jp/fukudao/published_papers/47335527"
+      },
+      {
+        "title": "Development of a Perioperative Medication Suspension Decision Algorithm Based on Bayesian Networks.",
+        "link": "https://researchmap.jp/fukudao/published_papers/47335521"
+      },
+      {
+        "title": "身体動作拡張テクノロジーの人間工学リサーチ・イシュー",
+        "link": "https://researchmap.jp/fukudao/published_papers/43402831"
+      }
+    ]
+  },
+  {
+    "url": "https://researchmap.jp/hohto-bekki",
+    "name": "戸次 鵬人",
+    "ruby": "ベッキ ホウト  (Hohto Bekki)",
+    "basic_info": {
+      "所属": "佐賀大学 理工学部 助教",
+      "学位": "博士（数理科学）(2019年3月 東京大学大学院数理科学研究科)",
+      "研究者番号": "71019122",
+      "外部リンク": "https://hohtobekki.github.io/"
+    },
+    "research_keywords": [],
+    "research_areas": [
+      "自然科学一般 / 代数学 / 数論"
+    ],
+    "major_papers": [
+      {
+        "title": "The Hodge realization of the polylogarithm and the Shintani generating class for totally real fields",
+        "link": "https://researchmap.jp/hohto-bekki/published_papers/49781249"
+      },
+      {
+        "title": "On the conical zeta values and the Dedekind zeta values for totally real fields",
+        "link": "https://researchmap.jp/hohto-bekki/published_papers/49781276"
+      },
+      {
+        "title": "Shintani–Barnes cocycles and values of the zeta functions of algebraic number fields",
+        "link": "https://researchmap.jp/hohto-bekki/published_papers/42412471"
+      },
+      {
+        "title": "On periodicity of geodesic continued fractions: a precis (Algebraic Number Theory and Related Topics 2016)",
+        "link": "https://researchmap.jp/hohto-bekki/published_papers/32588560"
+      },
+      {
+        "title": "The relative Hecke integral formula for an arbitrary extension of number fields",
+        "link": "https://researchmap.jp/hohto-bekki/published_papers/32588512"
+      },
+      {
+        "title": "On periodicity of geodesic continued fractions",
+        "link": "https://researchmap.jp/hohto-bekki/published_papers/32588510"
+      }
+    ]
+  },
+  {
+    "url": "https://researchmap.jp/YoshiakiHori",
+    "name": "堀 良彰",
+    "ruby": "ホリ ヨシアキ  (Yoshiaki Hori)",
+    "basic_info": {
+      "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 教授",
+      "学位": "博士（情報工学）(2002年3月 九州工業大学)",
+      "研究者番号": "90264126",
+      "外部リンク": "http://research.dl.saga-u.ac.jp/profile/ja.0fa3191b99e2d474.html"
+    },
+    "research_keywords": [
+      "QoS",
+      "TCP",
+      "Assured Forwarding",
+      "ネットワーク管理運用",
+      "トラフィック観測",
+      "remarking",
+      "Diffserv Domain",
+      "構造発見",
+      "diffserv",
+      "高速ネットワーク",
+      "UDP",
+      "MRED",
+      "RIO",
+      "異常発見",
+      "ATM",
+      "ネットワークセキュリティ",
+      "トラヒック観測",
+      "経路制御",
+      "インターネット",
+      "モバイルネットワーク",
+      "情報共有",
+      "プライバシー保護",
+      "暗号",
+      "ネットワークトモグラフィ",
+      "レイヤ間連携",
+      "モバイル",
+      "データベース",
+      "無線LAN",
+      "コンテンツ",
+      "優先制御",
+      "インターネット技術",
+      "ネットワークアーキテクチャ",
+      "性能評価",
+      "ネットワークセキュリティ",
+      "情報ネットワーク"
+    ],
+    "research_areas": [
+      "情報通信 / 情報セキュリティ /",
+      "情報通信 / 情報ネットワーク /",
+      "情報通信 / 計算機システム /"
+    ],
+    "major_papers": [
+      {
+        "title": "オンライン試験システムにおける替え玉受験検出の実証実験",
+        "link": "https://researchmap.jp/YoshiakiHori/published_papers/48064268"
+      },
+      {
+        "title": "郷土に残存する江戸期古記録の機械可読化を目的とした市民参加および機械学習による固有表現抽出",
+        "link": "https://researchmap.jp/YoshiakiHori/published_papers/38226883"
+      },
+      {
+        "title": "A behavior-based online engine for detecting distributed cyber-attacks",
+        "link": "https://researchmap.jp/YoshiakiHori/published_papers/22044156"
+      },
+      {
+        "title": "A Comprehensive Security Analysis Checksheet for OpenFlow Networks",
+        "link": "https://researchmap.jp/YoshiakiHori/published_papers/22044155"
+      },
+      {
+        "title": "A detection system for distributed DoS attacks based on automatic extraction of normal mode and its performance evaluation",
+        "link": "https://researchmap.jp/YoshiakiHori/published_papers/22044154"
+      },
+      {
+        "title": "Knowledge Co-Creation Involving Diverse Stakeholders beyond Boarders: Entrepreneurship Education Based on Design Thinking Methodology",
+        "link": "https://researchmap.jp/YoshiakiHori/published_papers/27479879"
+      },
+      {
+        "title": "共創の副次的効果に着目したイノベーション教育プログラム:デザイン思考によるアントレプレナーシップ教育",
+        "link": "https://researchmap.jp/YoshiakiHori/published_papers/24912706"
+      },
+      {
+        "title": "インタフェースにおけるデザイン思考の共創メディア性に関する考察 -- 学際・国際・地域連携による共創 --",
+        "link": "https://researchmap.jp/YoshiakiHori/published_papers/25073811"
+      },
+      {
+        "title": "Detection of Android Ad Library Focusing on HTTP Connections and View Object Redraw Behaviors",
+        "link": "https://researchmap.jp/YoshiakiHori/published_papers/22044159"
+      },
+      {
+        "title": "Message from the NETSAP 2015 Workshop Organizers.",
+        "link": "https://researchmap.jp/YoshiakiHori/published_papers/22044158"
+      },
+      {
+        "title": "A Proposal for Detecting Distributed Cyber-Attacks Using Automatic Thresholding",
+        "link": "https://researchmap.jp/YoshiakiHori/published_papers/22044157"
+      },
+      {
+        "title": "An effective SVD-based image tampering detection and self-recovery using active watermarking",
+        "link": "https://researchmap.jp/YoshiakiHori/published_papers/22044161"
+      },
+      {
+        "title": "OpenFlowを用いたハニーポットの動的配置手法",
+        "link": "https://researchmap.jp/YoshiakiHori/published_papers/37395674"
+      },
+      {
+        "title": "WebSocketを用いたネットワーク利用者認証システムの開発",
+        "link": "https://researchmap.jp/YoshiakiHori/published_papers/37394403"
+      },
+      {
+        "title": "OpenFlowを用いたパケット可視化・制御システムの開発",
+        "link": "https://researchmap.jp/YoshiakiHori/published_papers/37394400"
+      },
+      {
+        "title": "P2Pネットワーク上におけるWebシステムの構築",
+        "link": "https://researchmap.jp/YoshiakiHori/published_papers/37393977"
+      },
+      {
+        "title": "An NMF-based traffic classification approach towards anomaly detection for Massive Sensors",
+        "link": "https://researchmap.jp/YoshiakiHori/published_papers/22044164"
+      },
+      {
+        "title": "Behavioral Anomaly Detection System on Network Application Traffic from Many Sensors",
+        "link": "https://researchmap.jp/YoshiakiHori/published_papers/22044163"
+      },
+      {
+        "title": "A Parameterless Learning Algorithm for Behavior-based Detection",
+        "link": "https://researchmap.jp/YoshiakiHori/published_papers/22044162"
+      },
+      {
+        "title": "Detection of Privacy Sensitive Information Retrieval Using API Call Logging Mechanism within Android Framework.",
+        "link": "https://researchmap.jp/YoshiakiHori/published_papers/22044160"
+      }
+    ]
+  },
+  {
+    "url": "https://researchmap.jp/read0092768",
+    "name": "前田 明子",
+    "ruby": "マエダ アキコ  (Akiko MAEDA)",
+    "basic_info": {
+      "学位": "学士（理学）",
+      "J-GLOBAL ID": "200901074498145568"
+    },
+    "research_keywords": [],
+    "research_areas": [
+      "情報通信 / 情報ネットワーク /"
+    ],
+    "major_papers": []
+  },
+  {
+    "url": "https://researchmap.jp/read0092220",
+    "name": "猿子 幸弘",
+    "ruby": "マシコ ユキヒロ  (Yukihiro Mashiko)",
+    "basic_info": {
+      "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 講師",
+      "学位": "修士（数理学）(1997年3月) 博士（数理学）(2001年4月)",
+      "J-GLOBAL ID": "200901067840287187"
+    },
+    "research_keywords": [],
+    "research_areas": [],
+    "major_papers": []
+  },
+  {
+    "url": "https://researchmap.jp/matsumae",
+    "name": "松前 進",
+    "ruby": "マツマエ ススム  (Susumu MATSUMAE)",
+    "basic_info": {
+      "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 教授",
+      "学位": "博士（工学）(2000年3月 大阪大学) 修士（工学）(大阪大学)",
+      "researchmap会員ID": "1000244635",
+      "外部リンク": "https://www.fu.is.saga-u.ac.jp/matsumae/"
+    },
+    "research_keywords": [
+      "アルゴリズム",
+      "並列アルゴリズム",
+      "計算複雑度",
+      "GPGPU",
+      "並列計算機",
+      "言語処理系",
+      "ICタグ",
+      "シミュレーション",
+      "分割可能バス",
+      "再構成可能バス",
+      "区分バス",
+      "ブロードキャストバス",
+      "メッシュ結合型並列計算機",
+      "プロセッサアレイ",
+      "センサネットワーク"
+    ],
+    "research_areas": [
+      "情報通信 / 計算科学 /",
+      "情報通信 / 知能情報学 /",
+      "情報通信 / 数理情報学 /",
+      "情報通信 / ソフトウェア /",
+      "情報通信 / 情報学基礎論 /"
+    ],
+    "major_papers": [
+      {
+        "title": "Effect of Integrating Variational Autoencoder with SENet on Dimensionality Reduction in Driving Behavior Learning",
+        "link": "https://researchmap.jp/matsumae/published_papers/48571821"
+      },
+      {
+        "title": "Quantification of caffeine in coffee cans using electrochemical measurements, machine learning, and boron-doped diamond electrodes",
+        "link": "https://researchmap.jp/matsumae/published_papers/48084708"
+      },
+      {
+        "title": "Accelerating Dynamic Programming by P-Fold Pipeline Implementation on GPU",
+        "link": "https://researchmap.jp/matsumae/published_papers/48084709"
+      },
+      {
+        "title": "Dimensionality Reduction Methods Using VAE for Deep Reinforcement Learning of Autonomous Driving.",
+        "link": "https://researchmap.jp/matsumae/published_papers/48084703"
+      },
+      {
+        "title": "Accelerating pipeline implementation of dynamic programming on GPU",
+        "link": "https://researchmap.jp/matsumae/published_papers/40691871"
+      },
+      {
+        "title": "An Attempt to Understand Social Relationships Using Facial Expression Electromyography Analysis",
+        "link": "https://researchmap.jp/matsumae/published_papers/33927066"
+      },
+      {
+        "title": "Dynamic Relationship Design of Knowledge Co-Creating Cluster: Traditional Japanese Architectural Industry",
+        "link": "https://researchmap.jp/matsumae/published_papers/26816469"
+      },
+      {
+        "title": "Solving Dynamic Programming Problem by Pipeline Implementation on GPU",
+        "link": "https://researchmap.jp/matsumae/published_papers/15278476"
+      },
+      {
+        "title": "A Pipeline Implementation for Dynamic Programming on GPU",
+        "link": "https://researchmap.jp/matsumae/published_papers/15278477"
+      },
+      {
+        "title": "Improving Multiple Precision Integer Multiplication on GPUs.",
+        "link": "https://researchmap.jp/matsumae/published_papers/15278478"
+      },
+      {
+        "title": "Knowledge Co-Creation Involving Diverse Stakeholders beyond Boarders: Entrepreneurship Education Based on Design Thinking Methodology",
+        "link": "https://researchmap.jp/matsumae/published_papers/15278479"
+      },
+      {
+        "title": "共創の副次的効果に着目したイノベーション教育プログラム:デザイン思考によるアントレプレナーシップ教育",
+        "link": "https://researchmap.jp/matsumae/published_papers/15278480"
+      },
+      {
+        "title": "日韓デザイン思考プログラムへのビデオエスノグラフィの導入とイノベーション共創人材教育",
+        "link": "https://researchmap.jp/matsumae/published_papers/15278481"
+      },
+      {
+        "title": "Random Address Permute-Shift Technique for the Shared Memory on GPUs",
+        "link": "https://researchmap.jp/matsumae/published_papers/15278485"
+      },
+      {
+        "title": "インターフェースにおけるデザイン思考の共創メディア性に関する考察 : 学際・国際・地域連携による共創",
+        "link": "https://researchmap.jp/matsumae/published_papers/15278484"
+      },
+      {
+        "title": "EPUB editor for making language teaching materials",
+        "link": "https://researchmap.jp/matsumae/published_papers/15278483"
+      },
+      {
+        "title": "Web-based virtual whiteboard sharing system for middle and high school",
+        "link": "https://researchmap.jp/matsumae/published_papers/15278482"
+      },
+      {
+        "title": "Hierarchical Low Power Consumption Technique with Location Information for Sensor Networks",
+        "link": "https://researchmap.jp/matsumae/published_papers/15278488"
+      },
+      {
+        "title": "Effective Implementation of Dynamically Reconfigurable Buses by Statically Fixed Buses",
+        "link": "https://researchmap.jp/matsumae/published_papers/15278489"
+      },
+      {
+        "title": "The Random Address Shift to Reduce the Memory Access Congestion on the Discrete Memory Machine",
+        "link": "https://researchmap.jp/matsumae/published_papers/15278487"
+      }
+    ]
+  },
+  {
+    "url": "https://researchmap.jp/read0068308",
+    "name": "皆本 晃弥",
+    "ruby": "ミナモト テルヤ  (Teruya Minamoto)",
+    "basic_info": {
+      "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 教授",
+      "学位": "博士(数理学)(2000年2月 九州大学)",
+      "研究者番号": "00294900",
+      "外部リンク": "http://www.ma.is.saga-u.ac.jp/minamoto/index.html"
+    },
+    "research_keywords": [
+      "精度保証付き数値計算",
+      "画像処理",
+      "高等教育",
+      "数学教育",
+      "ウェーブレット解析",
+      "数値解析",
+      "Numerical Analysis"
+    ],
+    "research_areas": [
+      "情報通信 / 知覚情報処理 /",
+      "人文・社会 / 教育工学 /",
+      "情報通信 / 知能情報学 /",
+      "自然科学一般 / 応用数学、統計数学 /",
+      "自然科学一般 / 数学基礎 /"
+    ],
+    "major_papers": [
+      {
+        "title": "Constructive error estimates for a full-discretized periodic solution of heat equation by spatial finite-element and time spectral method",
+        "link": "https://researchmap.jp/read0068308/published_papers/49149979"
+      },
+      {
+        "title": "Detection and Classification Method for Early-Stage Colorectal Cancer Using Dyadic Wavelet Packet Transform",
+        "link": "https://researchmap.jp/read0068308/published_papers/48886268"
+      },
+      {
+        "title": "Detection of Stained Asbestos in Building Material Microscopic Images Using Empirical Wavelet Transform",
+        "link": "https://researchmap.jp/read0068308/published_papers/50261821"
+      },
+      {
+        "title": "A Detection Method for Circumferential Alignment of Diminutive Lesions Using Wavelet Transform Modulus Maxima and Higher-Order Local Autocorrelation",
+        "link": "https://researchmap.jp/read0068308/published_papers/48410735"
+      },
+      {
+        "title": "Feature Extraction for Sewer Pipe Joint Defects Using Curvelet Transform Techniques in a Sewer Pipe Image",
+        "link": "https://researchmap.jp/read0068308/published_papers/50261885"
+      },
+      {
+        "title": "A NEW NUMERICAL TECHNIQUE FOR SOLVING ψ-FRACTIONAL RICCATI DIFFERENTIAL EQUATIONS",
+        "link": "https://researchmap.jp/read0068308/published_papers/48410550"
+      },
+      {
+        "title": "A Detection Method for Stained Asbestos Based on Dyadic Wavelet Packet Transform and a Locally Adaptive Method of Edge Extraction",
+        "link": "https://researchmap.jp/read0068308/published_papers/48410744"
+      },
+      {
+        "title": "A novel numerical method for solution of fractional partial differential equations involving the ψ-Caputo fractional derivative",
+        "link": "https://researchmap.jp/read0068308/published_papers/48410553"
+      },
+      {
+        "title": "A NEW NUMERICAL TECHNIQUE FOR INVESTIGATING BOUNDARY VALUE PROBLEMS WITH Ψ-CAPUTO FRACTIONAL OPERATOR",
+        "link": "https://researchmap.jp/read0068308/published_papers/48410552"
+      },
+      {
+        "title": "Feature Extraction Method for Early Stage Colorectal Cancer Based on Vascukar Enhancemen and Lifting Dyadic Wavelet Transform",
+        "link": "https://researchmap.jp/read0068308/published_papers/48410551"
+      },
+      {
+        "title": "Improvement of the Constructive A Priori Error Estimates for a Fully Discretized Periodic Solution of Heat Equation",
+        "link": "https://researchmap.jp/read0068308/published_papers/41431142"
+      },
+      {
+        "title": "Watermarking Method Using Dual-Tree Complex Discrete Wavelet Transform and Quantization",
+        "link": "https://researchmap.jp/read0068308/published_papers/48410555"
+      },
+      {
+        "title": "Detection of Stained Chrysotile in Microscopic Images Using Wavelet-Based Texture Features",
+        "link": "https://researchmap.jp/read0068308/published_papers/48410554"
+      },
+      {
+        "title": "Detection of Maliciously Blurred Image Portions Using Dyadic Wavelet Transform and Jensen-Shannon Divergence",
+        "link": "https://researchmap.jp/read0068308/published_papers/48410760"
+      },
+      {
+        "title": "ψ-Haar wavelets method for numerically solving fractional differential equations",
+        "link": "https://researchmap.jp/read0068308/published_papers/48410556"
+      },
+      {
+        "title": "中学校数学教員のICT 活用指導力向上のための研修プログラムの開発",
+        "link": "https://researchmap.jp/read0068308/published_papers/48410608"
+      },
+      {
+        "title": "Feature Extraction Method for Early-Stage Colorectal Cancer Using Dual-Tree Complex Wavelet Packet Transform",
+        "link": "https://researchmap.jp/read0068308/published_papers/48410557"
+      },
+      {
+        "title": "Digital Image Watermarking Method Using The Gyrator And Dyadicwavelet Transforms",
+        "link": "https://researchmap.jp/read0068308/published_papers/45544579"
+      },
+      {
+        "title": "Constructive error estimates for full discrete approximation of periodic solution for heat equation",
+        "link": "https://researchmap.jp/read0068308/published_papers/26297068"
+      },
+      {
+        "title": "Gyrator変換とDyadic Wavelet変換を用いた電子透かし法",
+        "link": "https://researchmap.jp/read0068308/published_papers/48410609"
+      }
+    ]
+  },
+  {
+    "url": "https://researchmap.jp/read0109230",
+    "name": "山口 暢彦",
+    "ruby": "ヤマグチ ノブヒコ  (Nobuhiko Yamaguchi)",
+    "basic_info": {
+      "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 准教授",
+      "学位": "博士（工学）(名古屋工業大学)",
+      "J-GLOBAL ID": "200901058240427121"
+    },
+    "research_keywords": [
+      "機械学習",
+      "パターン識別",
+      "人工知能"
+    ],
+    "research_areas": [
+      "情報通信 / 知能情報学 /"
+    ],
+    "major_papers": [
+      {
+        "title": "Estimating Tomato Plant Leaf Area Using Multiple Images from Different Viewing Angles.",
+        "link": "https://researchmap.jp/read0109230/published_papers/48064795"
+      },
+      {
+        "title": "Human augmentation hand for cooperative solving of dissection puzzle problem.",
+        "link": "https://researchmap.jp/read0109230/published_papers/48064794"
+      },
+      {
+        "title": "Machine learning prediction of drug dynamics in dasatinib.",
+        "link": "https://researchmap.jp/read0109230/published_papers/49191197"
+      },
+      {
+        "title": "The Effect of AI Accuracy and Type of Feedback on Human Decision Making.",
+        "link": "https://researchmap.jp/read0109230/published_papers/48064800"
+      },
+      {
+        "title": "A Target Following Robot for Navigation Assistance for People with Visual Impairments.",
+        "link": "https://researchmap.jp/read0109230/published_papers/48064799"
+      },
+      {
+        "title": "A Co-Thinking Collaborative Manipulator for Solving Combinatorial Optimization Problems.",
+        "link": "https://researchmap.jp/read0109230/published_papers/48064798"
+      },
+      {
+        "title": "Strawberry Packaging Support System Based on Image Recognition.",
+        "link": "https://researchmap.jp/read0109230/published_papers/48064797"
+      },
+      {
+        "title": "Texture Image Classification Using LLGMN and HLAC Features.",
+        "link": "https://researchmap.jp/read0109230/published_papers/48064796"
+      },
+      {
+        "title": "Extraction and Classification of Surface Color Information Using Selective LED Illumination and a Statistical Neural Network.",
+        "link": "https://researchmap.jp/read0109230/published_papers/48064793"
+      },
+      {
+        "title": "Co-Thinking Device for Simultaneous Support of Human Cognitive and Physical Functions.",
+        "link": "https://researchmap.jp/read0109230/published_papers/48064792"
+      },
+      {
+        "title": "Development of a Perioperative Medication Suspension Decision Algorithm Based on Bayesian Networks",
+        "link": "https://researchmap.jp/read0109230/published_papers/47335526"
+      },
+      {
+        "title": "Development of a Perioperative Medication Suspension Decision Algorithm Based on Bayesian Networks.",
+        "link": "https://researchmap.jp/read0109230/published_papers/47335520"
+      },
+      {
+        "title": "Development of a person-following robotic assist walker with compliant-control arbitrated role-switching",
+        "link": "https://researchmap.jp/read0109230/published_papers/43022310"
+      },
+      {
+        "title": "In-Series Human-Robot Cooperation for Simultaneous Physical and Cognitive Assistance.",
+        "link": "https://researchmap.jp/read0109230/published_papers/48064802"
+      },
+      {
+        "title": "Bicycle-based collision prevention system using iPhone with LiDAR.",
+        "link": "https://researchmap.jp/read0109230/published_papers/48064801"
+      },
+      {
+        "title": "Interactive Visual Inspection of a Rough-Alignment Plastic Part Based on HLAC Features and One-Class SVM",
+        "link": "https://researchmap.jp/read0109230/published_papers/43022312"
+      },
+      {
+        "title": "Bicycle-based collision prevention system using pedestrian trajectory prediction.",
+        "link": "https://researchmap.jp/read0109230/published_papers/48064803"
+      },
+      {
+        "title": "Bimodal Control of a Vision-Based Myoelectric Hand",
+        "link": "https://researchmap.jp/read0109230/published_papers/37427676"
+      },
+      {
+        "title": "Puyo Puyo AI using Monte Carlo tree search",
+        "link": "https://researchmap.jp/read0109230/published_papers/47117585"
+      },
+      {
+        "title": "Model-based reinforcement learning with missing data",
+        "link": "https://researchmap.jp/read0109230/published_papers/47117550"
+      }
+    ]
+  },
+  {
+    "url": "https://researchmap.jp/wenliangyeoh",
+    "name": "Yeoh Wen Liang",
+    "ruby": "ヨー ウェン リアング  (Wen Liang Yeoh)",
+    "basic_info": {
+      "所属": "佐賀大学 理工学部",
+      "連絡先": "wlyeoh cc.saga-u.ac.jp"
+    },
+    "research_keywords": [
+      "人間工学",
+      "ヒューマンマシンインタラクション",
+      "運動制御",
+      "歩行",
+      "技術の人間化"
+    ],
+    "research_areas": [
+      "ライフサイエンス / 応用人類学 /",
+      "情報通信 / ロボティクス、知能機械システム /",
+      "情報通信 / ヒューマンインタフェース、インタラクション /"
+    ],
+    "major_papers": [
+      {
+        "title": "Biomechanical effects of saddle height changes in leisure cycling with unilateral transtibial prostheses: A simulated study",
+        "link": "https://researchmap.jp/wenliangyeoh/published_papers/48891666"
+      },
+      {
+        "title": "Effects of control parameters of wearable robotics on muscle activity during assisted elbow flexion",
+        "link": "https://researchmap.jp/wenliangyeoh/published_papers/48417326"
+      },
+      {
+        "title": "The Effect of Communicating AI Confidence on Human Decision Making When Performing a Binary Decision Task",
+        "link": "https://researchmap.jp/wenliangyeoh/published_papers/47796028"
+      },
+      {
+        "title": "Growth Monitoring of Greenhouse Tomatoes Based on Context Recognition",
+        "link": "https://researchmap.jp/wenliangyeoh/published_papers/47796026"
+      },
+      {
+        "title": "Estimating Tomato Plant Leaf Area Using Multiple Images from Different Viewing Angles",
+        "link": "https://researchmap.jp/wenliangyeoh/published_papers/47796025"
+      },
+      {
+        "title": "Co-Thinking Device for Simultaneous Support of Human Cognitive and Physical Functions",
+        "link": "https://researchmap.jp/wenliangyeoh/published_papers/47796029"
+      },
+      {
+        "title": "Extraction and Classification of Surface Color Information Using Selective LED Illumination and a Statistical Neural Network",
+        "link": "https://researchmap.jp/wenliangyeoh/published_papers/47796027"
+      },
+      {
+        "title": "Interaction between a motorized walker and its user: effects of force level on within-stride speed and direction fluctuations",
+        "link": "https://researchmap.jp/wenliangyeoh/published_papers/31060312"
+      },
+      {
+        "title": "身体動作拡張テクノロジーの人間工学リサーチ・イシュー",
+        "link": "https://researchmap.jp/wenliangyeoh/published_papers/43403194"
+      },
+      {
+        "title": "Biomechanical Analysis of Recreational Cycling with Unilateral Transtibial Prostheses",
+        "link": "https://researchmap.jp/wenliangyeoh/published_papers/43378037"
+      },
+      {
+        "title": "Motor Characteristics of Human Adaptations to External Assistive Forces",
+        "link": "https://researchmap.jp/wenliangyeoh/published_papers/42568536"
+      },
+      {
+        "title": "Development of a person-following robotic assist walker with compliant-control arbitrated role-switching",
+        "link": "https://researchmap.jp/wenliangyeoh/published_papers/42568535"
+      },
+      {
+        "title": "Method for Frequent High Resolution of Optical Sensor Image Acquisition using Satellite-Based SAR Image for Disaster Mitigation",
+        "link": "https://researchmap.jp/wenliangyeoh/published_papers/43824023"
+      },
+      {
+        "title": "Interactive Visual Inspection of a Rough-Alignment Plastic Part Based on HLAC Features and One-Class SVM",
+        "link": "https://researchmap.jp/wenliangyeoh/published_papers/42568534"
+      },
+      {
+        "title": "Backward Walking Styles and Impact on Spatiotemporal Gait Characteristics",
+        "link": "https://researchmap.jp/wenliangyeoh/published_papers/43022309"
+      },
+      {
+        "title": "The Effect of the Degree of Freedom and Weight of the Hand Exoskeleton on Joint Mobility Function",
+        "link": "https://researchmap.jp/wenliangyeoh/published_papers/40212633"
+      },
+      {
+        "title": "Dynamic Light Settings as Data Augmentations for Automated Scratch Detection",
+        "link": "https://researchmap.jp/wenliangyeoh/published_papers/43824022"
+      },
+      {
+        "title": "Users' adaptations to the proportional speed control of a motorised walker.",
+        "link": "https://researchmap.jp/wenliangyeoh/published_papers/36198199"
+      },
+      {
+        "title": "Motor performance patterns between unilateral mechanical assistance and bilateral muscle contraction",
+        "link": "https://researchmap.jp/wenliangyeoh/published_papers/31060310"
+      },
+      {
+        "title": "The effect of horizontal forces from a Smart Walker on gait and perceived exertion",
+        "link": "https://researchmap.jp/wenliangyeoh/published_papers/31060313"
+      }
+    ]
+  }
+]
