@@ -16,7 +16,8 @@ def init_db(conn):
         id   INTEGER PRIMARY KEY,
         url  TEXT UNIQUE,
         name TEXT,
-        ruby TEXT
+        ruby TEXT,
+        image TEXT
     );
 
     CREATE TABLE IF NOT EXISTS basic_info (
@@ -55,8 +56,8 @@ def load_data(conn):
     for t in teachers:
         # teacher table
         c.execute(
-            "INSERT OR IGNORE INTO teacher (url, name, ruby) VALUES (?, ?, ?)",
-            (t['url'], t['name'], t.get('ruby'))
+            "INSERT OR IGNORE INTO teacher (url, name, ruby, image) VALUES (?, ?, ?, ?)",
+            (t['url'], t['name'], t.get('ruby'), t.get('image', ''))
         )
         # get its id
         c.execute("SELECT id FROM teacher WHERE url = ?", (t['url'],))

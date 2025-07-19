@@ -3,6 +3,7 @@
     "url": "https://researchmap.jp/y.ishimoto",
     "name": "石本 志高",
     "ruby": "Yukitaka Ishimoto",
+    "image": "images/image01.jpg",
     "basic_info": {
       "所属": "佐賀大学 理工学部 教授",
       "学位": "D.Phil(2004年3月 The University of Oxford) 修士(京都大学) 学士(京都大学)",
@@ -104,6 +105,7 @@
     "url": "https://researchmap.jp/a-iwasaki",
     "name": "岩﨑 淳",
     "ruby": "Atsushi Iwasaki",
+    "image": "images/image02.png",
     "basic_info": {
       "所属": "佐賀大学 理工学系 理工学部数理・情報部門",
       "J-GLOBAL ID": "201901010065766800"
@@ -155,6 +157,7 @@
     "url": "https://researchmap.jp/sgrueda",
     "name": "上田 俊",
     "ruby": "ウエダ スグル  (Suguru Ueda)",
+    "image": "images/image03.jpg",
     "basic_info": {
       "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 助教",
       "学位": "情報科学(九州大学)",
@@ -254,6 +257,7 @@
     "url": "https://researchmap.jp/read0092784",
     "name": "大月 美佳",
     "ruby": "オオツキ ミカ  (Mika Ohtsuki)",
+    "image": "images/image04.png",
     "basic_info": {
       "所属": "佐賀大学 理工学部 知能情報システム学科 講師",
       "学位": "博士(工学)(九州大学)",
@@ -276,6 +280,7 @@
     "url": "https://researchmap.jp/read0043384",
     "name": "岡﨑 泰久",
     "ruby": "オカザキ ヤスヒサ  (Yasuhisa OKAZAKI)",
+    "image": "images/image05.png",
     "basic_info": {
       "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 教授",
       "学位": "博士（工学）",
@@ -376,6 +381,7 @@
     "url": "https://researchmap.jp/read0068302",
     "name": "奥村 浩",
     "ruby": "オクムラ ヒロシ  (HIROSHI OKUMURA)",
+    "image": "images/image06.png",
     "basic_info": {
       "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 教授 (博士(学術))",
       "学位": "博士(工学)(千葉大学) 工学修士(法政大学) 工学士(法政大学)",
@@ -484,6 +490,7 @@
     "url": "https://researchmap.jp/kakeshita-tetsuro",
     "name": "掛下 哲郎",
     "ruby": "カケシタ テツロウ  (Tetsuro KAKESHITA)",
+    "image": "images/image07.jpg",
     "basic_info": {
       "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 准教授",
       "学位": "工学博士(1989年3月 九州大学)",
@@ -586,6 +593,7 @@
     "url": "https://researchmap.jp/7000009333",
     "name": "木下 武彦",
     "ruby": "キノシタ タケヒコ  (Takehiko Kinoshita)",
+    "image": "images/image08.png",
     "basic_info": {
       "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 准教授",
       "学位": "博士(数理学)(九州大学)",
@@ -689,6 +697,7 @@
     "url": "https://researchmap.jp/read0150456",
     "name": "木村 拓馬",
     "ruby": "キムラ タクマ  (Takuma KIMURA)",
+    "image": "images/image09.jpg",
     "basic_info": {
       "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 准教授",
       "学位": "博士（理学）(弘前大学)",
@@ -800,6 +809,7 @@
     "url": "https://researchmap.jp/read20180918",
     "name": "中村 伊南沙",
     "ruby": "Inasa Nakamura",
+    "image": "images/image10.jpg",
     "basic_info": {
       "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 教授",
       "J-GLOBAL ID": "201801000135062497",
@@ -898,6 +908,7 @@
     "url": "https://researchmap.jp/koichi_nakayama",
     "name": "中山 功一",
     "ruby": "ナカヤマ コウイチ  (Koichi Nakayama)",
+    "image": "images/image11.jpg",
     "basic_info": {
       "所属": "佐賀大学 理工学系（理工学部） 教授",
       "学位": "博士（情報学）(京都大学) 修士（工学）(三重大学)",
@@ -1020,6 +1031,7 @@
     "url": "https://researchmap.jp/read0092611",
     "name": "花田 英輔",
     "ruby": "ハナダ エイスケ  (Eisuke Hanada)",
+    "image": "images/image12.jpg",
     "basic_info": {
       "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 教授",
       "学位": "博士（工学）(佐賀大学)",
@@ -1124,6 +1136,7 @@
     "url": "https://researchmap.jp/handak",
     "name": "半田 賢司",
     "ruby": "ハンダ ケンジ  (Kenji Handa)",
+    "image": "images/image13.png",
     "basic_info": {
       "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 教授",
       "学位": "博士（理学）",
@@ -1176,6 +1189,7 @@
     "url": "https://researchmap.jp/read0043377",
     "name": "日比野 雄嗣",
     "ruby": "Yuji HIBINO",
+    "image": "images/image14.png",
     "basic_info": {
       "学位": "博士(理学)(熊本大学) 理学修士(名古屋大学)",
       "J-GLOBAL ID": "200901081602272956",
@@ -1277,6 +1291,7 @@
     "url": "https://researchmap.jp/read0143510",
     "name": "廣友 雅徳",
     "ruby": "ヒロトモ マサノリ  (Masanori Hirotomo)",
+    "image": "images/image15.png",
     "basic_info": {
       "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 本務／准教授",
       "学位": "博士（工学）（徳島大学） 修士（工学）（徳島大学）",
@@ -1372,6 +1387,7 @@
     "url": "https://researchmap.jp/fukudao",
     "name": "福田 修",
     "ruby": "フクダ オサム  (Osamu FUKUDA)",
+    "image": "images/image16.png",
     "basic_info": {
       "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 教授",
       "学位": "博士（工学）(広島大学)",
@@ -1473,6 +1489,7 @@
     "url": "https://researchmap.jp/hohto-bekki",
     "name": "戸次 鵬人",
     "ruby": "ベッキ ホウト  (Hohto Bekki)",
+    "image": "images/image17.png",
     "basic_info": {
       "所属": "佐賀大学 理工学部 助教",
       "学位": "博士（数理科学）(2019年3月 東京大学大学院数理科学研究科)",
@@ -1514,6 +1531,7 @@
     "url": "https://researchmap.jp/YoshiakiHori",
     "name": "堀 良彰",
     "ruby": "ホリ ヨシアキ  (Yoshiaki Hori)",
+    "image": "images/image18.jpg",
     "basic_info": {
       "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 教授",
       "学位": "博士（情報工学）(2002年3月 九州工業大学)",
@@ -1649,6 +1667,7 @@
     "url": "https://researchmap.jp/read0092768",
     "name": "前田 明子",
     "ruby": "マエダ アキコ  (Akiko MAEDA)",
+    "image": "images/image19.png",
     "basic_info": {
       "学位": "学士（理学）",
       "J-GLOBAL ID": "200901074498145568"
@@ -1663,6 +1682,7 @@
     "url": "https://researchmap.jp/read0092220",
     "name": "猿子 幸弘",
     "ruby": "マシコ ユキヒロ  (Yukihiro Mashiko)",
+    "image": "images/image20.png",
     "basic_info": {
       "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 講師",
       "学位": "修士（数理学）(1997年3月) 博士（数理学）(2001年4月)",
@@ -1676,6 +1696,7 @@
     "url": "https://researchmap.jp/matsumae",
     "name": "松前 進",
     "ruby": "マツマエ ススム  (Susumu MATSUMAE)",
+    "image": "images/image21.png",
     "basic_info": {
       "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 教授",
       "学位": "博士（工学）(2000年3月 大阪大学) 修士（工学）(大阪大学)",
@@ -1793,6 +1814,7 @@
     "url": "https://researchmap.jp/read0068308",
     "name": "皆本 晃弥",
     "ruby": "ミナモト テルヤ  (Teruya Minamoto)",
+    "image": "images/image22.jpg",
     "basic_info": {
       "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 教授",
       "学位": "博士(数理学)(2000年2月 九州大学)",
@@ -1902,6 +1924,7 @@
     "url": "https://researchmap.jp/read0109230",
     "name": "山口 暢彦",
     "ruby": "ヤマグチ ノブヒコ  (Nobuhiko Yamaguchi)",
+    "image": "images/image23.png",
     "basic_info": {
       "所属": "佐賀大学 理工学系 理工学部 数理・情報部門 准教授",
       "学位": "博士（工学）(名古屋工業大学)",
@@ -2002,6 +2025,7 @@
     "url": "https://researchmap.jp/wenliangyeoh",
     "name": "Yeoh Wen Liang",
     "ruby": "ヨー ウェン リアング  (Wen Liang Yeoh)",
+    "image": "images/image24.png",
     "basic_info": {
       "所属": "佐賀大学 理工学部",
       "連絡先": "wlyeoh cc.saga-u.ac.jp"
