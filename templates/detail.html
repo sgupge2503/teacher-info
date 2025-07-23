@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ teacher.name }} - 教員詳細</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', path='css/style.css') }}">
 </head>
 <body>
     <div class="container">
@@ -19,7 +19,7 @@
             <div class="teacher-profile">
                 <div class="profile-header">
                     {% if teacher.image %}
-                    <img src="{{ url_for('static', filename='images/' + teacher.image.split('/')[-1]) }}" alt="{{ teacher.name }}" class="profile-image">
+                    <img src="{{ url_for('static', path='images/' + teacher.image.split('/')[-1]) }}" alt="{{ teacher.name }}" class="profile-image">
                     {% else %}
                     <div class="no-image-large">画像なし</div>
                     {% endif %}
@@ -108,6 +108,6 @@
         </main>
     </div>
     
-    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+    <script src="{{ url_for('static', path='js/script.js') }}"></script>
 </body>
 </html>
