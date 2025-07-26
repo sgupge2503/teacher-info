@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>教員情報システム</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>教員情報システム</h1>
+        </header>
+        <main>
+            <div class="search-section">
+                <h2>教員を検索</h2>
+                <form id="search-form" onsubmit="return false;">
+                    <div class="form-group">
+                        <label for="search-input">教員名:</label>
+                        <input type="text" id="search-input" placeholder="名前や読み仮名で検索">
+                    </div>
+                </form>
+            </div>
+            <div class="teacher-list">
+                <h3>教員一覧</h3>
+                <div class="teacher-grid" id="teacher-grid">
+                    <!-- ここにJavaScriptで教員カードが挿入されます -->
+                </div>
+            </div>
+        </main>
+    </div>
+    <script src="js/script.js"></script>
+</body>
+</html>
