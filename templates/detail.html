@@ -9,10 +9,10 @@
 <body>
     <div class="container">
         <header>
-            <h1>{{ teacher.name }} の詳細情報</h1>
             <nav>
                 <a href="{{ url_for('index') }}" class="btn btn-secondary">← 一覧に戻る</a>
             </nav>
+            <h1>{{ teacher.name }} の詳細情報</h1>
         </header>
         
         <main>
@@ -84,19 +84,15 @@
                         <thead>
                             <tr>
                                 <th>論文タイトル</th>
-                                <th>リンク</th>
                             </tr>
                         </thead>
                         <tbody>
                             {% for paper in papers %}
                             <tr>
-                                <td>{{ paper.title }}</td>
                                 <td>
-                                    {% if paper.link %}
-                                    <a href="{{ paper.link }}" target="_blank" class="paper-link">詳細を見る</a>
-                                    {% else %}
-                                    <span class="no-link">リンクなし</span>
-                                    {% endif %}
+                                    <a href="{{ paper.link }}" target="_blank">
+                                        {{ paper.title }}
+                                    </a>
                                 </td>
                             </tr>
                             {% endfor %}
